@@ -1,0 +1,1001 @@
+Gender,Age,Blood Pressure (mmHg),Cholesterol (mg/dL),Has Diabetes,Smoking Status,Chest Pain Type,Treatment,Age Group,Cholesterol Level Category,Blood Pressure Category,Risk Score,Heart Health Status,Lifestyle Modification Necessity,Treatment Effectiveness Category,Patient ID
+Male,70,181,262,No,Never,Typical Angina,Lifestyle Changes,70-79,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,High,1
+Female,55,103,253,Yes,Never,Atypical Angina,Angioplasty,50-59,High,Normal,1,Unhealthy,No,Low,2
+Male,42,95,295,Yes,Current,Typical Angina,Angioplasty,40-49,High,Normal,2,Unhealthy,Yes,Low,3
+Male,84,106,270,No,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG),80+,High,Normal,1,Unhealthy,No,Low,4
+Male,86,187,296,Yes,Current,Non-anginal Pain,Medication,80+,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,5
+Female,66,125,271,Yes,Former,Typical Angina,Coronary Artery Bypass Graft (CABG),60-69,High,Elevated,1,At Risk,No,Low,6
+Male,33,181,262,Yes,Current,Asymptomatic,Lifestyle Changes,30-39,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,7
+Male,84,182,288,No,Current,Non-anginal Pain,Lifestyle Changes,80+,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,8
+Male,73,115,286,Yes,Never,Asymptomatic,Angioplasty,70-79,High,Normal,1,Unhealthy,No,Low,9
+Female,63,174,254,Yes,Former,Non-anginal Pain,Angioplasty,60-69,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,10
+Male,88,154,150,No,Former,Atypical Angina,Medication,80+,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Moderate,11
+Male,69,133,236,No,Former,Typical Angina,Coronary Artery Bypass Graft (CABG),60-69,Borderline High,High Blood Pressure Stage 1,0,At Risk,No,Low,12
+Male,78,165,171,No,Former,Non-anginal Pain,Lifestyle Changes,70-79,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,13
+Male,89,153,215,Yes,Current,Atypical Angina,Angioplasty,80+,Borderline High,High Blood Pressure Stage 2,2,At Risk,Yes,Low,14
+Female,71,110,182,Yes,Former,Typical Angina,Medication,70-79,Low,Normal,0,Healthy,No,Low,15
+Male,30,107,242,Yes,Current,Typical Angina,Lifestyle Changes,30-39,High,Normal,2,Unhealthy,Yes,High,16
+Female,77,112,179,No,Current,Non-anginal Pain,Angioplasty,70-79,Low,Normal,1,Healthy,Yes,Low,17
+Female,86,91,254,Yes,Current,Typical Angina,Lifestyle Changes,80+,High,Normal,2,Unhealthy,Yes,High,18
+Female,76,101,227,Yes,Former,Non-anginal Pain,Medication,70-79,Borderline High,Normal,0,At Risk,No,Low,19
+Male,74,125,259,No,Never,Typical Angina,Medication,70-79,High,Elevated,1,At Risk,No,Low,20
+Female,45,141,273,No,Never,Asymptomatic,Lifestyle Changes,40-49,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,21
+Male,88,124,212,No,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG),80+,Borderline High,Elevated,0,At Risk,No,Low,22
+Female,34,109,222,No,Never,Asymptomatic,Lifestyle Changes,30-39,Borderline High,Normal,0,At Risk,No,Low,23
+Female,77,143,285,No,Never,Non-anginal Pain,Angioplasty,70-79,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,24
+Female,45,153,266,Yes,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG),40-49,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,25
+Female,89,112,209,No,Current,Non-anginal Pain,Angioplasty,80+,Borderline High,Normal,1,At Risk,Yes,Low,26
+Female,84,197,273,Yes,Former,Typical Angina,Lifestyle Changes,80+,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,High,27
+Female,61,149,157,Yes,Former,Typical Angina,Coronary Artery Bypass Graft (CABG),60-69,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,28
+Female,52,104,191,No,Never,Non-anginal Pain,Angioplasty,50-59,Low,Normal,0,Healthy,No,Low,29
+Female,49,159,268,No,Current,Asymptomatic,Lifestyle Changes,40-49,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,30
+Male,55,193,161,No,Former,Typical Angina,Lifestyle Changes,50-59,Low,High Blood Pressure Stage 2,1,Unhealthy,No,High,31
+Male,81,135,274,Yes,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG),80+,High,High Blood Pressure Stage 1,1,Unhealthy,No,Low,32
+Female,39,190,248,No,Former,Typical Angina,Lifestyle Changes,30-39,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,High,33
+Female,32,154,205,No,Former,Atypical Angina,Medication,30-39,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Moderate,34
+Female,71,129,280,No,Former,Asymptomatic,Angioplasty,70-79,High,Elevated,1,At Risk,No,Low,35
+Male,46,126,295,No,Former,Atypical Angina,Angioplasty,40-49,High,Elevated,1,At Risk,No,Low,36
+Female,88,129,270,No,Never,Atypical Angina,Lifestyle Changes,80+,High,Elevated,1,At Risk,No,Low,37
+Male,52,134,255,Yes,Current,Atypical Angina,Lifestyle Changes,50-59,High,High Blood Pressure Stage 1,2,Unhealthy,Yes,Low,38
+Male,76,125,188,Yes,Current,Atypical Angina,Medication,70-79,Low,Elevated,1,At Risk,Yes,Moderate,39
+Male,46,193,246,Yes,Former,Typical Angina,Coronary Artery Bypass Graft (CABG),40-49,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,40
+Male,70,172,266,No,Current,Atypical Angina,Lifestyle Changes,70-79,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,41
+Male,49,125,297,No,Current,Typical Angina,Lifestyle Changes,40-49,High,Elevated,2,At Risk,Yes,High,42
+Female,39,182,181,No,Current,Atypical Angina,Lifestyle Changes,30-39,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,43
+Female,67,179,268,Yes,Former,Non-anginal Pain,Lifestyle Changes,60-69,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,44
+Female,39,111,249,No,Former,Asymptomatic,Angioplasty,30-39,High,Normal,1,Unhealthy,No,Low,45
+Female,71,192,209,No,Current,Atypical Angina,Lifestyle Changes,70-79,Borderline High,High Blood Pressure Stage 2,2,At Risk,Yes,Low,46
+Female,33,107,258,No,Current,Non-anginal Pain,Angioplasty,30-39,High,Normal,2,Unhealthy,Yes,Low,47
+Male,86,106,235,Yes,Former,Atypical Angina,Lifestyle Changes,80+,Borderline High,Normal,0,At Risk,No,Low,48
+Female,61,91,181,No,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG),60-69,Low,Normal,0,Healthy,No,Low,49
+Female,41,181,191,Yes,Current,Atypical Angina,Medication,40-49,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Moderate,50
+Male,35,180,201,No,Never,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),30-39,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,51
+Female,41,181,297,Yes,Current,Asymptomatic,Lifestyle Changes,40-49,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,52
+Male,55,166,204,Yes,Never,Non-anginal Pain,Lifestyle Changes,50-59,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,53
+Female,66,119,198,Yes,Never,Asymptomatic,Lifestyle Changes,60-69,Low,Normal,0,Healthy,No,Low,54
+Male,35,139,200,No,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG),30-39,Borderline High,High Blood Pressure Stage 1,0,At Risk,No,Low,55
+Female,80,179,186,No,Former,Typical Angina,Lifestyle Changes,80+,Low,High Blood Pressure Stage 2,1,Unhealthy,No,High,56
+Female,85,116,217,Yes,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG),80+,Borderline High,Normal,0,At Risk,No,Low,57
+Male,89,191,242,Yes,Never,Asymptomatic,Angioplasty,80+,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,58
+Male,76,165,273,No,Never,Non-anginal Pain,Medication,70-79,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,59
+Male,61,120,176,No,Current,Atypical Angina,Medication,60-69,Low,Elevated,1,At Risk,Yes,Moderate,60
+Male,39,141,233,Yes,Never,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),30-39,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,61
+Male,57,135,216,No,Current,Non-anginal Pain,Angioplasty,50-59,Borderline High,High Blood Pressure Stage 1,1,At Risk,Yes,Low,62
+Male,79,158,210,No,Never,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),70-79,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,63
+Male,81,187,270,No,Never,Atypical Angina,Angioplasty,80+,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,64
+Male,62,138,172,No,Former,Non-anginal Pain,Lifestyle Changes,60-69,Low,High Blood Pressure Stage 1,0,Unhealthy,No,Low,65
+Female,48,198,165,Yes,Current,Non-anginal Pain,Angioplasty,40-49,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,66
+Female,80,162,190,No,Never,Atypical Angina,Angioplasty,80+,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,67
+Male,84,142,295,No,Current,Non-anginal Pain,Angioplasty,80+,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,68
+Female,69,169,183,Yes,Current,Atypical Angina,Medication,60-69,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Moderate,69
+Female,36,178,156,Yes,Former,Asymptomatic,Angioplasty,30-39,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,70
+Female,36,196,222,No,Former,Asymptomatic,Lifestyle Changes,30-39,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,71
+Female,42,164,229,No,Former,Asymptomatic,Lifestyle Changes,40-49,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,72
+Male,42,161,294,No,Former,Non-anginal Pain,Lifestyle Changes,40-49,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,73
+Female,64,168,195,No,Former,Typical Angina,Angioplasty,60-69,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,74
+Male,80,113,216,Yes,Former,Typical Angina,Coronary Artery Bypass Graft (CABG),80+,Borderline High,Normal,0,At Risk,No,Low,75
+Female,55,185,220,Yes,Former,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),50-59,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,76
+Female,36,159,243,Yes,Former,Typical Angina,Lifestyle Changes,30-39,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,High,77
+Female,62,148,265,No,Never,Atypical Angina,Medication,60-69,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Moderate,78
+Male,45,171,150,No,Current,Typical Angina,Coronary Artery Bypass Graft (CABG),40-49,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,79
+Female,55,176,283,No,Former,Non-anginal Pain,Angioplasty,50-59,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,80
+Male,60,183,248,No,Former,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),60-69,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,81
+Female,64,196,225,Yes,Current,Atypical Angina,Lifestyle Changes,60-69,Borderline High,High Blood Pressure Stage 2,2,At Risk,Yes,Low,82
+Male,50,147,253,Yes,Never,Asymptomatic,Medication,50-59,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,83
+Female,74,166,234,No,Current,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),70-79,Borderline High,High Blood Pressure Stage 2,2,At Risk,Yes,Low,84
+Male,61,129,166,Yes,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG),60-69,Low,Elevated,1,At Risk,Yes,Low,85
+Male,72,107,199,No,Former,Typical Angina,Lifestyle Changes,70-79,Low,Normal,0,Healthy,No,High,86
+Female,65,143,227,No,Current,Typical Angina,Medication,60-69,Borderline High,High Blood Pressure Stage 2,2,At Risk,Yes,Low,87
+Male,40,153,274,Yes,Current,Atypical Angina,Medication,40-49,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Moderate,88
+Female,41,97,185,No,Former,Atypical Angina,Lifestyle Changes,40-49,Low,Normal,0,Healthy,No,Low,89
+Female,55,119,259,No,Former,Non-anginal Pain,Angioplasty,50-59,High,Normal,1,Unhealthy,No,Low,90
+Female,46,161,233,Yes,Former,Typical Angina,Coronary Artery Bypass Graft (CABG),40-49,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,91
+Female,70,175,190,No,Former,Atypical Angina,Angioplasty,70-79,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,92
+Female,71,104,201,No,Current,Typical Angina,Coronary Artery Bypass Graft (CABG),70-79,Borderline High,Normal,1,At Risk,Yes,Low,93
+Female,39,110,273,Yes,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG),30-39,High,Normal,2,Unhealthy,Yes,Low,94
+Female,66,161,203,No,Never,Typical Angina,Angioplasty,60-69,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,95
+Female,30,197,271,Yes,Never,Asymptomatic,Lifestyle Changes,30-39,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,96
+Female,79,196,158,No,Current,Non-anginal Pain,Lifestyle Changes,70-79,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,97
+Female,67,141,255,Yes,Never,Typical Angina,Coronary Artery Bypass Graft (CABG),60-69,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,98
+Female,51,153,161,Yes,Current,Asymptomatic,Lifestyle Changes,50-59,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,99
+Male,51,120,280,Yes,Never,Typical Angina,Coronary Artery Bypass Graft (CABG),50-59,High,Elevated,1,At Risk,No,Low,100
+Male,89,105,167,No,Former,Typical Angina,Lifestyle Changes,80+,Low,Normal,0,Healthy,No,High,101
+Female,86,111,164,Yes,Never,Asymptomatic,Coronary Artery Bypass Graft (CABG),80+,Low,Normal,0,Healthy,No,Low,102
+Female,32,145,256,Yes,Former,Typical Angina,Lifestyle Changes,30-39,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,High,103
+Female,76,98,259,Yes,Former,Typical Angina,Medication,70-79,High,Normal,1,Unhealthy,No,Low,104
+Female,40,149,156,Yes,Former,Non-anginal Pain,Angioplasty,40-49,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,105
+Female,48,139,235,Yes,Former,Asymptomatic,Medication,40-49,Borderline High,High Blood Pressure Stage 1,0,At Risk,No,Low,106
+Female,78,182,166,No,Never,Asymptomatic,Angioplasty,70-79,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,107
+Female,81,154,178,No,Current,Atypical Angina,Angioplasty,80+,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,108
+Female,88,128,188,No,Former,Typical Angina,Coronary Artery Bypass Graft (CABG),80+,Low,Elevated,0,At Risk,No,Low,109
+Male,49,195,172,No,Never,Non-anginal Pain,Angioplasty,40-49,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,110
+Female,46,146,181,No,Former,Typical Angina,Medication,40-49,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,111
+Male,85,167,287,No,Never,Typical Angina,Medication,80+,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,112
+Female,82,196,225,No,Never,Atypical Angina,Lifestyle Changes,80+,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,113
+Female,75,143,246,Yes,Never,Typical Angina,Medication,70-79,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,114
+Male,46,168,248,No,Current,Non-anginal Pain,Lifestyle Changes,40-49,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,115
+Female,76,101,254,Yes,Never,Non-anginal Pain,Angioplasty,70-79,High,Normal,1,Unhealthy,No,Low,116
+Male,48,110,165,Yes,Never,Atypical Angina,Medication,40-49,Low,Normal,0,Healthy,No,Moderate,117
+Female,34,141,286,No,Current,Typical Angina,Angioplasty,30-39,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,118
+Female,33,196,282,Yes,Current,Non-anginal Pain,Medication,30-39,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,119
+Male,71,163,202,Yes,Never,Typical Angina,Medication,70-79,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,120
+Female,35,144,258,Yes,Current,Typical Angina,Lifestyle Changes,30-39,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,High,121
+Male,31,156,233,Yes,Former,Typical Angina,Angioplasty,30-39,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,122
+Female,62,122,220,No,Former,Atypical Angina,Medication,60-69,Borderline High,Elevated,0,At Risk,No,Moderate,123
+Male,73,168,178,No,Current,Typical Angina,Coronary Artery Bypass Graft (CABG),70-79,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,124
+Male,45,175,220,No,Current,Non-anginal Pain,Angioplasty,40-49,Borderline High,High Blood Pressure Stage 2,2,At Risk,Yes,Low,125
+Female,40,107,179,No,Never,Typical Angina,Angioplasty,40-49,Low,Normal,0,Healthy,No,Low,126
+Female,51,152,230,No,Current,Non-anginal Pain,Angioplasty,50-59,Borderline High,High Blood Pressure Stage 2,2,At Risk,Yes,Low,127
+Male,74,136,229,No,Never,Typical Angina,Lifestyle Changes,70-79,Borderline High,High Blood Pressure Stage 1,0,At Risk,No,High,128
+Female,78,192,175,No,Former,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),70-79,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,129
+Female,45,151,223,No,Current,Non-anginal Pain,Angioplasty,40-49,Borderline High,High Blood Pressure Stage 2,2,At Risk,Yes,Low,130
+Female,86,150,294,No,Never,Typical Angina,Medication,80+,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,131
+Male,43,119,156,No,Never,Typical Angina,Medication,40-49,Low,Normal,0,Healthy,No,Low,132
+Male,71,176,198,Yes,Former,Non-anginal Pain,Lifestyle Changes,70-79,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,133
+Male,37,168,193,No,Current,Asymptomatic,Medication,30-39,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,134
+Male,67,138,202,Yes,Former,Atypical Angina,Angioplasty,60-69,Borderline High,High Blood Pressure Stage 1,0,At Risk,No,Low,135
+Male,37,110,249,Yes,Never,Asymptomatic,Medication,30-39,High,Normal,1,Unhealthy,No,Low,136
+Male,80,91,220,Yes,Never,Asymptomatic,Angioplasty,80+,Borderline High,Normal,0,At Risk,No,Low,137
+Male,45,182,170,Yes,Current,Typical Angina,Medication,40-49,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,138
+Male,38,175,248,No,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG),30-39,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,139
+Male,80,114,272,Yes,Current,Asymptomatic,Lifestyle Changes,80+,High,Normal,2,Unhealthy,Yes,Low,140
+Female,86,190,207,No,Former,Typical Angina,Lifestyle Changes,80+,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,High,141
+Male,49,119,292,No,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG),40-49,High,Normal,2,Unhealthy,Yes,Low,142
+Female,54,120,248,Yes,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG),50-59,High,Elevated,2,At Risk,Yes,Low,143
+Female,78,127,274,No,Never,Typical Angina,Lifestyle Changes,70-79,High,Elevated,1,At Risk,No,High,144
+Female,65,125,219,Yes,Never,Typical Angina,Coronary Artery Bypass Graft (CABG),60-69,Borderline High,Elevated,0,At Risk,No,Low,145
+Male,77,186,270,Yes,Current,Typical Angina,Angioplasty,70-79,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,146
+Male,79,178,292,No,Never,Atypical Angina,Medication,70-79,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Moderate,147
+Male,84,184,249,No,Never,Asymptomatic,Lifestyle Changes,80+,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,148
+Male,82,137,270,Yes,Never,Typical Angina,Coronary Artery Bypass Graft (CABG),80+,High,High Blood Pressure Stage 1,1,Unhealthy,No,Low,149
+Female,86,96,217,No,Current,Non-anginal Pain,Angioplasty,80+,Borderline High,Normal,1,At Risk,Yes,Low,150
+Male,79,165,230,No,Never,Asymptomatic,Lifestyle Changes,70-79,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,151
+Male,88,97,195,No,Current,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),80+,Low,Normal,1,Healthy,Yes,Low,152
+Male,50,138,184,Yes,Never,Atypical Angina,Lifestyle Changes,50-59,Low,High Blood Pressure Stage 1,0,Unhealthy,No,Low,153
+Male,80,178,274,Yes,Former,Typical Angina,Coronary Artery Bypass Graft (CABG),80+,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,154
+Male,34,116,251,No,Never,Non-anginal Pain,Lifestyle Changes,30-39,High,Normal,1,Unhealthy,No,Low,155
+Female,63,138,196,No,Never,Atypical Angina,Angioplasty,60-69,Low,High Blood Pressure Stage 1,0,Unhealthy,No,Low,156
+Male,80,156,239,No,Current,Typical Angina,Angioplasty,80+,Borderline High,High Blood Pressure Stage 2,2,At Risk,Yes,Low,157
+Female,50,188,248,No,Current,Non-anginal Pain,Medication,50-59,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,158
+Male,64,95,272,No,Never,Non-anginal Pain,Lifestyle Changes,60-69,High,Normal,1,Unhealthy,No,Low,159
+Female,73,120,229,Yes,Former,Atypical Angina,Medication,70-79,Borderline High,Elevated,0,At Risk,No,Moderate,160
+Male,44,197,256,No,Never,Typical Angina,Lifestyle Changes,40-49,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,High,161
+Male,88,154,299,Yes,Never,Typical Angina,Coronary Artery Bypass Graft (CABG),80+,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,162
+Female,59,150,199,No,Former,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),50-59,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,163
+Female,51,138,261,Yes,Current,Non-anginal Pain,Medication,50-59,High,High Blood Pressure Stage 1,2,Unhealthy,Yes,Low,164
+Female,43,176,271,No,Never,Non-anginal Pain,Lifestyle Changes,40-49,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,165
+Male,55,111,279,Yes,Current,Typical Angina,Medication,50-59,High,Normal,2,Unhealthy,Yes,Low,166
+Female,73,139,259,No,Current,Atypical Angina,Angioplasty,70-79,High,High Blood Pressure Stage 1,2,Unhealthy,Yes,Low,167
+Male,86,101,175,Yes,Former,Atypical Angina,Medication,80+,Low,Normal,0,Healthy,No,Moderate,168
+Male,77,120,160,Yes,Former,Typical Angina,Medication,70-79,Low,Elevated,0,At Risk,No,Low,169
+Female,82,100,276,Yes,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG),80+,High,Normal,2,Unhealthy,Yes,Low,170
+Female,82,195,188,Yes,Never,Atypical Angina,Medication,80+,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Moderate,171
+Male,76,103,278,Yes,Current,Non-anginal Pain,Lifestyle Changes,70-79,High,Normal,2,Unhealthy,Yes,Low,172
+Male,85,143,203,Yes,Never,Asymptomatic,Coronary Artery Bypass Graft (CABG),80+,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,173
+Female,76,139,236,No,Never,Asymptomatic,Medication,70-79,Borderline High,High Blood Pressure Stage 1,0,At Risk,No,Low,174
+Female,41,169,249,Yes,Former,Atypical Angina,Angioplasty,40-49,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,175
+Female,86,97,246,No,Never,Asymptomatic,Medication,80+,High,Normal,1,Unhealthy,No,Low,176
+Male,81,173,225,No,Never,Asymptomatic,Medication,80+,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,177
+Male,58,144,203,No,Current,Atypical Angina,Medication,50-59,Borderline High,High Blood Pressure Stage 2,2,At Risk,Yes,Moderate,178
+Male,77,138,191,No,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG),70-79,Low,High Blood Pressure Stage 1,0,Unhealthy,No,Low,179
+Male,82,199,248,No,Never,Asymptomatic,Lifestyle Changes,80+,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,180
+Male,53,147,201,Yes,Never,Non-anginal Pain,Angioplasty,50-59,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,181
+Male,82,154,214,Yes,Former,Typical Angina,Medication,80+,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,182
+Female,72,151,298,Yes,Current,Asymptomatic,Lifestyle Changes,70-79,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,183
+Male,37,129,222,No,Former,Asymptomatic,Lifestyle Changes,30-39,Borderline High,Elevated,0,At Risk,No,Low,184
+Male,89,124,175,Yes,Former,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),80+,Low,Elevated,0,At Risk,No,Low,185
+Male,82,190,271,Yes,Never,Asymptomatic,Angioplasty,80+,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,186
+Female,89,132,175,Yes,Never,Asymptomatic,Coronary Artery Bypass Graft (CABG),80+,Low,High Blood Pressure Stage 1,0,Unhealthy,No,Low,187
+Male,38,146,160,Yes,Current,Typical Angina,Lifestyle Changes,30-39,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,High,188
+Male,83,182,268,Yes,Never,Typical Angina,Lifestyle Changes,80+,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,High,189
+Female,41,160,252,No,Never,Typical Angina,Lifestyle Changes,40-49,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,High,190
+Male,34,196,271,Yes,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG),30-39,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,191
+Male,40,126,288,No,Never,Atypical Angina,Angioplasty,40-49,High,Elevated,1,At Risk,No,Low,192
+Male,77,159,235,No,Current,Typical Angina,Medication,70-79,Borderline High,High Blood Pressure Stage 2,2,At Risk,Yes,Low,193
+Male,62,158,218,No,Former,Typical Angina,Coronary Artery Bypass Graft (CABG),60-69,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,194
+Male,37,198,199,No,Current,Atypical Angina,Lifestyle Changes,30-39,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,195
+Female,38,186,272,No,Former,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),30-39,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,196
+Female,52,180,278,Yes,Never,Asymptomatic,Lifestyle Changes,50-59,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,197
+Female,77,143,241,Yes,Former,Asymptomatic,Medication,70-79,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,198
+Male,42,175,288,Yes,Former,Typical Angina,Medication,40-49,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,199
+Male,63,144,176,No,Never,Non-anginal Pain,Angioplasty,60-69,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,200
+Male,59,194,237,Yes,Never,Atypical Angina,Lifestyle Changes,50-59,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,201
+Female,45,175,154,Yes,Current,Typical Angina,Angioplasty,40-49,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,202
+Male,66,134,279,No,Current,Non-anginal Pain,Angioplasty,60-69,High,High Blood Pressure Stage 1,2,Unhealthy,Yes,Low,203
+Male,86,103,227,No,Never,Non-anginal Pain,Medication,80+,Borderline High,Normal,0,At Risk,No,Low,204
+Female,45,197,283,No,Never,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),40-49,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,205
+Male,39,150,276,No,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG),30-39,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,206
+Female,71,145,270,Yes,Former,Atypical Angina,Angioplasty,70-79,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,207
+Female,41,95,261,No,Former,Asymptomatic,Medication,40-49,High,Normal,1,Unhealthy,No,Low,208
+Female,48,146,167,No,Former,Asymptomatic,Lifestyle Changes,40-49,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,209
+Male,46,128,165,Yes,Never,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),40-49,Low,Elevated,0,At Risk,No,Low,210
+Male,64,120,191,Yes,Current,Non-anginal Pain,Angioplasty,60-69,Low,Elevated,1,At Risk,Yes,Low,211
+Male,31,173,203,No,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG),30-39,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,212
+Male,64,151,227,Yes,Former,Asymptomatic,Coronary Artery Bypass Graft (CABG),60-69,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,213
+Male,53,164,186,No,Former,Non-anginal Pain,Lifestyle Changes,50-59,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,214
+Male,62,169,215,No,Never,Asymptomatic,Medication,60-69,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,215
+Male,75,137,182,Yes,Never,Asymptomatic,Lifestyle Changes,70-79,Low,High Blood Pressure Stage 1,0,Unhealthy,No,Low,216
+Female,66,105,259,Yes,Former,Non-anginal Pain,Medication,60-69,High,Normal,1,Unhealthy,No,Low,217
+Male,54,183,248,No,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG),50-59,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,218
+Female,80,188,261,No,Former,Non-anginal Pain,Angioplasty,80+,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,219
+Male,56,168,254,No,Never,Non-anginal Pain,Lifestyle Changes,50-59,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,220
+Male,89,194,173,Yes,Former,Asymptomatic,Medication,80+,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,221
+Male,34,120,154,No,Former,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),30-39,Low,Elevated,0,At Risk,No,Low,222
+Female,46,153,272,No,Current,Atypical Angina,Medication,40-49,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Moderate,223
+Female,86,180,176,No,Never,Non-anginal Pain,Medication,80+,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,224
+Female,53,163,165,No,Current,Atypical Angina,Medication,50-59,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Moderate,225
+Female,86,192,299,No,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG),80+,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,226
+Male,82,199,205,Yes,Former,Asymptomatic,Angioplasty,80+,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,227
+Female,39,113,207,No,Never,Typical Angina,Angioplasty,30-39,Borderline High,Normal,0,At Risk,No,Low,228
+Male,60,99,251,No,Former,Typical Angina,Angioplasty,60-69,High,Normal,1,Unhealthy,No,Low,229
+Male,86,127,183,No,Never,Asymptomatic,Medication,80+,Low,Elevated,0,At Risk,No,Low,230
+Female,37,149,282,No,Current,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),30-39,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,231
+Female,72,114,230,Yes,Never,Asymptomatic,Medication,70-79,Borderline High,Normal,0,At Risk,No,Low,232
+Female,39,122,202,Yes,Former,Atypical Angina,Angioplasty,30-39,Borderline High,Elevated,0,At Risk,No,Low,233
+Female,56,106,193,Yes,Former,Typical Angina,Angioplasty,50-59,Low,Normal,0,Healthy,No,Low,234
+Female,79,96,155,No,Former,Asymptomatic,Coronary Artery Bypass Graft (CABG),70-79,Low,Normal,0,Healthy,No,Low,235
+Female,87,125,232,No,Never,Non-anginal Pain,Medication,80+,Borderline High,Elevated,0,At Risk,No,Low,236
+Female,89,139,232,Yes,Current,Asymptomatic,Lifestyle Changes,80+,Borderline High,High Blood Pressure Stage 1,1,At Risk,Yes,Low,237
+Female,45,103,246,Yes,Current,Typical Angina,Lifestyle Changes,40-49,High,Normal,2,Unhealthy,Yes,High,238
+Male,78,116,258,Yes,Never,Asymptomatic,Angioplasty,70-79,High,Normal,1,Unhealthy,No,Low,239
+Female,85,139,188,No,Former,Asymptomatic,Coronary Artery Bypass Graft (CABG),80+,Low,High Blood Pressure Stage 1,0,Unhealthy,No,Low,240
+Female,84,180,230,No,Current,Typical Angina,Medication,80+,Borderline High,High Blood Pressure Stage 2,2,At Risk,Yes,Low,241
+Male,86,110,181,Yes,Former,Atypical Angina,Medication,80+,Low,Normal,0,Healthy,No,Moderate,242
+Female,33,105,161,Yes,Never,Atypical Angina,Angioplasty,30-39,Low,Normal,0,Healthy,No,Low,243
+Male,58,137,179,Yes,Former,Typical Angina,Angioplasty,50-59,Low,High Blood Pressure Stage 1,0,Unhealthy,No,Low,244
+Male,31,94,152,No,Current,Asymptomatic,Medication,30-39,Low,Normal,1,Healthy,Yes,Low,245
+Female,83,97,163,No,Current,Typical Angina,Medication,80+,Low,Normal,1,Healthy,Yes,Low,246
+Male,74,191,176,No,Former,Atypical Angina,Angioplasty,70-79,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,247
+Male,64,144,157,Yes,Never,Non-anginal Pain,Medication,60-69,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,248
+Male,33,158,294,Yes,Former,Asymptomatic,Lifestyle Changes,30-39,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,249
+Male,51,197,225,No,Never,Atypical Angina,Angioplasty,50-59,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,250
+Female,60,149,185,Yes,Former,Asymptomatic,Medication,60-69,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,251
+Male,36,105,237,No,Current,Typical Angina,Angioplasty,30-39,Borderline High,Normal,1,At Risk,Yes,Low,252
+Female,58,170,235,Yes,Never,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),50-59,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,253
+Male,72,105,248,Yes,Never,Typical Angina,Angioplasty,70-79,High,Normal,1,Unhealthy,No,Low,254
+Male,83,195,245,Yes,Never,Non-anginal Pain,Angioplasty,80+,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,255
+Male,77,139,282,Yes,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG),70-79,High,High Blood Pressure Stage 1,2,Unhealthy,Yes,Low,256
+Male,36,187,185,No,Former,Asymptomatic,Lifestyle Changes,30-39,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,257
+Female,75,135,244,Yes,Current,Typical Angina,Medication,70-79,High,High Blood Pressure Stage 1,2,Unhealthy,Yes,Low,258
+Female,40,163,198,No,Never,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),40-49,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,259
+Male,82,146,267,No,Former,Non-anginal Pain,Angioplasty,80+,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,260
+Male,78,188,179,No,Current,Asymptomatic,Medication,70-79,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,261
+Female,71,149,214,Yes,Never,Typical Angina,Coronary Artery Bypass Graft (CABG),70-79,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,262
+Male,55,140,199,No,Never,Non-anginal Pain,Medication,50-59,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,263
+Male,34,99,256,No,Current,Asymptomatic,Medication,30-39,High,Normal,2,Unhealthy,Yes,Low,264
+Male,81,100,280,No,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG),80+,High,Normal,2,Unhealthy,Yes,Low,265
+Female,41,184,251,Yes,Current,Typical Angina,Medication,40-49,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,266
+Female,40,184,193,Yes,Never,Atypical Angina,Lifestyle Changes,40-49,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,267
+Female,37,110,195,No,Current,Typical Angina,Coronary Artery Bypass Graft (CABG),30-39,Low,Normal,1,Healthy,Yes,Low,268
+Male,77,95,278,Yes,Never,Asymptomatic,Lifestyle Changes,70-79,High,Normal,1,Unhealthy,No,Low,269
+Male,58,159,274,No,Current,Non-anginal Pain,Angioplasty,50-59,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,270
+Female,72,146,157,No,Never,Non-anginal Pain,Medication,70-79,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,271
+Female,34,181,176,Yes,Never,Non-anginal Pain,Angioplasty,30-39,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,272
+Female,53,138,220,No,Former,Typical Angina,Angioplasty,50-59,Borderline High,High Blood Pressure Stage 1,0,At Risk,No,Low,273
+Female,70,152,279,Yes,Current,Asymptomatic,Medication,70-79,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,274
+Male,83,164,160,Yes,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG),80+,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,275
+Female,69,138,274,No,Never,Asymptomatic,Medication,60-69,High,High Blood Pressure Stage 1,1,Unhealthy,No,Low,276
+Male,49,130,295,Yes,Never,Atypical Angina,Angioplasty,40-49,High,High Blood Pressure Stage 1,1,Unhealthy,No,Low,277
+Female,41,188,202,Yes,Never,Typical Angina,Angioplasty,40-49,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,278
+Male,47,123,285,No,Former,Typical Angina,Coronary Artery Bypass Graft (CABG),40-49,High,Elevated,1,At Risk,No,Low,279
+Female,78,141,273,No,Former,Atypical Angina,Medication,70-79,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Moderate,280
+Female,35,195,248,Yes,Never,Atypical Angina,Angioplasty,30-39,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,281
+Female,31,111,180,Yes,Current,Atypical Angina,Lifestyle Changes,30-39,Low,Normal,1,Healthy,Yes,Low,282
+Female,51,134,256,No,Current,Asymptomatic,Angioplasty,50-59,High,High Blood Pressure Stage 1,2,Unhealthy,Yes,Low,283
+Male,37,181,288,Yes,Former,Atypical Angina,Angioplasty,30-39,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,284
+Female,72,191,198,Yes,Former,Typical Angina,Coronary Artery Bypass Graft (CABG),70-79,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,285
+Male,42,111,230,Yes,Never,Typical Angina,Lifestyle Changes,40-49,Borderline High,Normal,0,At Risk,No,High,286
+Male,63,136,259,Yes,Current,Non-anginal Pain,Angioplasty,60-69,High,High Blood Pressure Stage 1,2,Unhealthy,Yes,Low,287
+Male,54,107,241,Yes,Never,Atypical Angina,Angioplasty,50-59,High,Normal,1,Unhealthy,No,Low,288
+Male,32,198,155,Yes,Former,Asymptomatic,Lifestyle Changes,30-39,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,289
+Female,65,183,284,Yes,Current,Asymptomatic,Medication,60-69,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,290
+Male,80,172,244,No,Current,Asymptomatic,Medication,80+,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,291
+Male,49,146,219,No,Former,Non-anginal Pain,Angioplasty,40-49,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,292
+Male,71,98,239,No,Never,Typical Angina,Angioplasty,70-79,Borderline High,Normal,0,At Risk,No,Low,293
+Female,86,146,241,No,Never,Asymptomatic,Medication,80+,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,294
+Female,32,172,297,No,Current,Typical Angina,Coronary Artery Bypass Graft (CABG),30-39,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,295
+Female,82,142,176,Yes,Former,Non-anginal Pain,Lifestyle Changes,80+,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,296
+Female,57,115,295,Yes,Current,Atypical Angina,Lifestyle Changes,50-59,High,Normal,2,Unhealthy,Yes,Low,297
+Male,82,138,236,Yes,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG),80+,Borderline High,High Blood Pressure Stage 1,0,At Risk,No,Low,298
+Male,33,180,206,Yes,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG),30-39,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,299
+Female,65,183,214,No,Former,Asymptomatic,Coronary Artery Bypass Graft (CABG),60-69,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,300
+Male,40,107,233,Yes,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG),40-49,Borderline High,Normal,0,At Risk,No,Low,301
+Male,73,197,289,Yes,Former,Asymptomatic,Coronary Artery Bypass Graft (CABG),70-79,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,302
+Male,71,183,183,No,Current,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),70-79,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,303
+Female,42,117,230,Yes,Never,Non-anginal Pain,Lifestyle Changes,40-49,Borderline High,Normal,0,At Risk,No,Low,304
+Female,70,106,220,Yes,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG),70-79,Borderline High,Normal,1,At Risk,Yes,Low,305
+Male,55,94,293,No,Current,Typical Angina,Medication,50-59,High,Normal,2,Unhealthy,Yes,Low,306
+Female,83,141,283,Yes,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG),80+,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,307
+Female,46,187,172,Yes,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG),40-49,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,308
+Female,79,188,230,Yes,Current,Atypical Angina,Lifestyle Changes,70-79,Borderline High,High Blood Pressure Stage 2,2,At Risk,Yes,Low,309
+Female,80,174,255,Yes,Current,Asymptomatic,Lifestyle Changes,80+,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,310
+Female,45,140,173,Yes,Current,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),40-49,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,311
+Male,46,173,217,No,Current,Atypical Angina,Lifestyle Changes,40-49,Borderline High,High Blood Pressure Stage 2,2,At Risk,Yes,Low,312
+Female,81,189,180,No,Never,Non-anginal Pain,Angioplasty,80+,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,313
+Male,45,197,240,No,Never,Atypical Angina,Lifestyle Changes,40-49,High,High Blood Pressure Stage 2,1,Unhealthy,No,Low,314
+Male,37,170,267,No,Current,Atypical Angina,Lifestyle Changes,30-39,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,315
+Female,78,141,160,No,Former,Asymptomatic,Lifestyle Changes,70-79,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,316
+Male,43,113,163,No,Former,Typical Angina,Lifestyle Changes,40-49,Low,Normal,0,Healthy,No,High,317
+Male,61,146,255,Yes,Never,Asymptomatic,Medication,60-69,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,318
+Male,77,164,256,No,Current,Atypical Angina,Medication,70-79,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Moderate,319
+Female,59,197,160,No,Current,Atypical Angina,Medication,50-59,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Moderate,320
+Female,40,164,153,Yes,Never,Typical Angina,Coronary Artery Bypass Graft (CABG),40-49,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,321
+Male,32,176,274,Yes,Former,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),30-39,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,322
+Female,81,168,185,No,Former,Non-anginal Pain,Angioplasty,80+,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,323
+Female,88,127,178,Yes,Former,Atypical Angina,Medication,80+,Low,Elevated,0,At Risk,No,Moderate,324
+Female,60,97,193,No,Never,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),60-69,Low,Normal,0,Healthy,No,Low,325
+Female,37,140,150,Yes,Former,Atypical Angina,Lifestyle Changes,30-39,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,326
+Male,78,94,152,No,Never,Typical Angina,Lifestyle Changes,70-79,Low,Normal,0,Healthy,No,High,327
+Male,67,166,193,Yes,Never,Typical Angina,Medication,60-69,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,328
+Female,49,117,203,Yes,Current,Atypical Angina,Angioplasty,40-49,Borderline High,Normal,1,At Risk,Yes,Low,329
+Female,71,157,159,No,Former,Typical Angina,Angioplasty,70-79,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,330
+Male,53,188,213,No,Never,Asymptomatic,Lifestyle Changes,50-59,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,331
+Male,69,110,179,No,Former,Asymptomatic,Angioplasty,60-69,Low,Normal,0,Healthy,No,Low,332
+Female,64,95,285,No,Former,Typical Angina,Medication,60-69,High,Normal,1,Unhealthy,No,Low,333
+Male,58,106,293,No,Current,Atypical Angina,Lifestyle Changes,50-59,High,Normal,2,Unhealthy,Yes,Low,334
+Female,53,197,297,Yes,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG),50-59,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,335
+Female,48,190,156,No,Current,Typical Angina,Coronary Artery Bypass Graft (CABG),40-49,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,336
+Male,44,116,165,No,Never,Non-anginal Pain,Angioplasty,40-49,Low,Normal,0,Healthy,No,Low,337
+Male,35,150,239,Yes,Former,Asymptomatic,Lifestyle Changes,30-39,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,338
+Female,70,180,279,Yes,Never,Non-anginal Pain,Lifestyle Changes,70-79,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,339
+Female,54,189,202,No,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG),50-59,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,340
+Male,74,120,274,Yes,Never,Atypical Angina,Lifestyle Changes,70-79,High,Elevated,1,At Risk,No,Low,341
+Female,50,167,299,Yes,Former,Non-anginal Pain,Lifestyle Changes,50-59,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,342
+Male,49,149,201,No,Former,Typical Angina,Lifestyle Changes,40-49,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,High,343
+Female,35,190,152,Yes,Former,Non-anginal Pain,Angioplasty,30-39,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,344
+Male,46,173,278,Yes,Former,Non-anginal Pain,Lifestyle Changes,40-49,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,345
+Male,77,183,195,No,Former,Asymptomatic,Medication,70-79,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,346
+Male,40,131,215,No,Former,Asymptomatic,Angioplasty,40-49,Borderline High,High Blood Pressure Stage 1,0,At Risk,No,Low,347
+Female,77,181,286,Yes,Former,Non-anginal Pain,Lifestyle Changes,70-79,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,348
+Female,89,174,238,Yes,Former,Non-anginal Pain,Lifestyle Changes,80+,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,349
+Male,55,197,251,No,Former,Atypical Angina,Medication,50-59,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Moderate,350
+Female,80,141,297,Yes,Never,Asymptomatic,Angioplasty,80+,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,351
+Male,84,130,258,Yes,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG),80+,High,High Blood Pressure Stage 1,2,Unhealthy,Yes,Low,352
+Male,33,145,167,Yes,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG),30-39,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,353
+Female,55,158,171,No,Current,Typical Angina,Angioplasty,50-59,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,354
+Female,88,151,252,Yes,Former,Asymptomatic,Lifestyle Changes,80+,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,355
+Male,57,164,181,Yes,Former,Asymptomatic,Lifestyle Changes,50-59,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,356
+Female,30,141,236,No,Never,Typical Angina,Coronary Artery Bypass Graft (CABG),30-39,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,357
+Female,74,109,216,Yes,Never,Asymptomatic,Coronary Artery Bypass Graft (CABG),70-79,Borderline High,Normal,0,At Risk,No,Low,358
+Male,87,142,179,Yes,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG),80+,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,359
+Male,36,160,252,No,Never,Typical Angina,Medication,30-39,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,360
+Female,82,198,235,No,Never,Typical Angina,Coronary Artery Bypass Graft (CABG),80+,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,361
+Male,60,149,248,No,Current,Non-anginal Pain,Medication,60-69,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,362
+Male,67,123,252,No,Never,Atypical Angina,Angioplasty,60-69,High,Elevated,1,At Risk,No,Low,363
+Female,32,106,249,Yes,Former,Atypical Angina,Lifestyle Changes,30-39,High,Normal,1,Unhealthy,No,Low,364
+Male,34,198,258,Yes,Current,Typical Angina,Coronary Artery Bypass Graft (CABG),30-39,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,365
+Male,88,159,182,No,Current,Typical Angina,Lifestyle Changes,80+,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,High,366
+Female,43,163,196,No,Former,Asymptomatic,Lifestyle Changes,40-49,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,367
+Female,80,195,287,Yes,Never,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),80+,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,368
+Male,37,107,234,No,Current,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),30-39,Borderline High,Normal,1,At Risk,Yes,Low,369
+Male,71,105,244,Yes,Current,Typical Angina,Angioplasty,70-79,High,Normal,2,Unhealthy,Yes,Low,370
+Female,89,121,230,No,Former,Asymptomatic,Medication,80+,Borderline High,Elevated,0,At Risk,No,Low,371
+Female,71,156,227,Yes,Former,Asymptomatic,Medication,70-79,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,372
+Female,39,152,196,No,Never,Atypical Angina,Lifestyle Changes,30-39,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,373
+Female,61,147,269,No,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG),60-69,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,374
+Male,40,178,253,Yes,Never,Asymptomatic,Angioplasty,40-49,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,375
+Female,30,110,283,No,Never,Atypical Angina,Angioplasty,30-39,High,Normal,1,Unhealthy,No,Low,376
+Female,34,195,219,Yes,Former,Typical Angina,Angioplasty,30-39,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,377
+Male,48,106,204,Yes,Current,Asymptomatic,Angioplasty,40-49,Borderline High,Normal,1,At Risk,Yes,Low,378
+Female,66,180,183,Yes,Current,Atypical Angina,Angioplasty,60-69,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,379
+Male,64,181,299,Yes,Current,Non-anginal Pain,Medication,60-69,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,380
+Female,75,97,156,Yes,Former,Asymptomatic,Medication,70-79,Low,Normal,0,Healthy,No,Low,381
+Female,67,118,253,No,Former,Asymptomatic,Medication,60-69,High,Normal,1,Unhealthy,No,Low,382
+Female,69,173,159,No,Former,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),60-69,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,383
+Male,58,160,294,Yes,Former,Typical Angina,Lifestyle Changes,50-59,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,High,384
+Male,36,116,295,No,Former,Non-anginal Pain,Angioplasty,30-39,High,Normal,1,Unhealthy,No,Low,385
+Female,63,96,254,Yes,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG),60-69,High,Normal,2,Unhealthy,Yes,Low,386
+Male,41,97,213,No,Never,Typical Angina,Angioplasty,40-49,Borderline High,Normal,0,At Risk,No,Low,387
+Male,81,141,283,No,Current,Atypical Angina,Medication,80+,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Moderate,388
+Male,77,125,245,No,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG),70-79,High,Elevated,1,At Risk,No,Low,389
+Male,58,166,248,No,Former,Atypical Angina,Medication,50-59,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Moderate,390
+Male,41,102,225,Yes,Never,Asymptomatic,Angioplasty,40-49,Borderline High,Normal,0,At Risk,No,Low,391
+Male,62,137,294,Yes,Current,Non-anginal Pain,Angioplasty,60-69,High,High Blood Pressure Stage 1,2,Unhealthy,Yes,Low,392
+Female,41,107,262,No,Current,Typical Angina,Lifestyle Changes,40-49,High,Normal,2,Unhealthy,Yes,High,393
+Female,73,141,237,No,Never,Atypical Angina,Angioplasty,70-79,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,394
+Male,76,123,151,Yes,Former,Typical Angina,Medication,70-79,Low,Elevated,0,At Risk,No,Low,395
+Female,85,179,157,No,Former,Asymptomatic,Angioplasty,80+,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,396
+Female,54,138,196,Yes,Current,Atypical Angina,Lifestyle Changes,50-59,Low,High Blood Pressure Stage 1,1,Unhealthy,Yes,Low,397
+Female,52,161,214,Yes,Never,Asymptomatic,Lifestyle Changes,50-59,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,398
+Female,86,142,153,Yes,Former,Non-anginal Pain,Medication,80+,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,399
+Male,34,118,245,No,Former,Asymptomatic,Coronary Artery Bypass Graft (CABG),30-39,High,Normal,1,Unhealthy,No,Low,400
+Female,77,109,153,Yes,Current,Asymptomatic,Angioplasty,70-79,Low,Normal,1,Healthy,Yes,Low,401
+Female,82,130,262,No,Former,Non-anginal Pain,Lifestyle Changes,80+,High,High Blood Pressure Stage 1,1,Unhealthy,No,Low,402
+Male,48,195,156,Yes,Never,Typical Angina,Angioplasty,40-49,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,403
+Male,75,123,191,No,Current,Non-anginal Pain,Angioplasty,70-79,Low,Elevated,1,At Risk,Yes,Low,404
+Female,56,98,208,No,Current,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),50-59,Borderline High,Normal,1,At Risk,Yes,Low,405
+Female,74,196,244,No,Never,Asymptomatic,Lifestyle Changes,70-79,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,406
+Female,66,129,185,Yes,Current,Typical Angina,Angioplasty,60-69,Low,Elevated,1,At Risk,Yes,Low,407
+Female,78,161,178,Yes,Former,Atypical Angina,Lifestyle Changes,70-79,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,408
+Female,69,110,162,No,Former,Non-anginal Pain,Medication,60-69,Low,Normal,0,Healthy,No,Low,409
+Female,59,159,160,No,Never,Typical Angina,Medication,50-59,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,410
+Male,80,197,189,No,Former,Non-anginal Pain,Angioplasty,80+,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,411
+Female,79,106,230,Yes,Never,Non-anginal Pain,Lifestyle Changes,70-79,Borderline High,Normal,0,At Risk,No,Low,412
+Female,68,93,185,Yes,Never,Non-anginal Pain,Angioplasty,60-69,Low,Normal,0,Healthy,No,Low,413
+Male,80,98,277,Yes,Former,Non-anginal Pain,Lifestyle Changes,80+,High,Normal,1,Unhealthy,No,Low,414
+Male,85,189,257,Yes,Never,Asymptomatic,Lifestyle Changes,80+,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,415
+Male,86,194,201,No,Former,Typical Angina,Coronary Artery Bypass Graft (CABG),80+,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,416
+Male,52,109,159,No,Current,Typical Angina,Coronary Artery Bypass Graft (CABG),50-59,Low,Normal,1,Healthy,Yes,Low,417
+Female,40,101,244,Yes,Current,Typical Angina,Coronary Artery Bypass Graft (CABG),40-49,High,Normal,2,Unhealthy,Yes,Low,418
+Female,77,141,164,Yes,Never,Non-anginal Pain,Angioplasty,70-79,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,419
+Female,67,159,207,No,Former,Asymptomatic,Coronary Artery Bypass Graft (CABG),60-69,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,420
+Female,87,171,159,Yes,Former,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),80+,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,421
+Female,41,107,169,Yes,Current,Non-anginal Pain,Medication,40-49,Low,Normal,1,Healthy,Yes,Low,422
+Female,74,194,244,Yes,Current,Typical Angina,Lifestyle Changes,70-79,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,High,423
+Male,60,108,185,Yes,Former,Non-anginal Pain,Lifestyle Changes,60-69,Low,Normal,0,Healthy,No,Low,424
+Female,58,106,203,Yes,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG),50-59,Borderline High,Normal,0,At Risk,No,Low,425
+Male,76,190,189,Yes,Current,Non-anginal Pain,Lifestyle Changes,70-79,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,426
+Male,32,126,295,No,Never,Atypical Angina,Medication,30-39,High,Elevated,1,At Risk,No,Moderate,427
+Female,34,119,241,Yes,Never,Non-anginal Pain,Medication,30-39,High,Normal,1,Unhealthy,No,Low,428
+Male,87,105,203,Yes,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG),80+,Borderline High,Normal,1,At Risk,Yes,Low,429
+Female,64,143,225,No,Never,Asymptomatic,Medication,60-69,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,430
+Male,59,103,183,No,Never,Typical Angina,Lifestyle Changes,50-59,Low,Normal,0,Healthy,No,High,431
+Female,31,95,273,No,Former,Non-anginal Pain,Angioplasty,30-39,High,Normal,1,Unhealthy,No,Low,432
+Male,70,188,156,Yes,Never,Atypical Angina,Lifestyle Changes,70-79,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,433
+Female,34,102,214,No,Former,Atypical Angina,Angioplasty,30-39,Borderline High,Normal,0,At Risk,No,Low,434
+Female,59,183,168,Yes,Current,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),50-59,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,435
+Female,47,196,159,Yes,Current,Atypical Angina,Angioplasty,40-49,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,436
+Female,78,102,283,Yes,Former,Asymptomatic,Medication,70-79,High,Normal,1,Unhealthy,No,Low,437
+Female,45,90,252,No,Current,Atypical Angina,Lifestyle Changes,40-49,High,Normal,2,Unhealthy,Yes,Low,438
+Male,44,92,244,No,Never,Typical Angina,Angioplasty,40-49,High,Normal,1,Unhealthy,No,Low,439
+Male,81,123,172,No,Never,Asymptomatic,Lifestyle Changes,80+,Low,Elevated,0,At Risk,No,Low,440
+Male,38,137,265,No,Never,Asymptomatic,Coronary Artery Bypass Graft (CABG),30-39,High,High Blood Pressure Stage 1,1,Unhealthy,No,Low,441
+Female,49,90,151,No,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG),40-49,Low,Normal,1,Healthy,Yes,Low,442
+Male,56,118,166,Yes,Never,Non-anginal Pain,Medication,50-59,Low,Normal,0,Healthy,No,Low,443
+Female,79,186,221,Yes,Current,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),70-79,Borderline High,High Blood Pressure Stage 2,2,At Risk,Yes,Low,444
+Female,83,122,265,Yes,Never,Asymptomatic,Angioplasty,80+,High,Elevated,1,At Risk,No,Low,445
+Male,52,132,155,Yes,Former,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),50-59,Low,High Blood Pressure Stage 1,0,Unhealthy,No,Low,446
+Male,48,144,170,No,Current,Atypical Angina,Medication,40-49,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Moderate,447
+Female,46,101,150,No,Current,Non-anginal Pain,Lifestyle Changes,40-49,Low,Normal,1,Healthy,Yes,Low,448
+Male,33,193,165,Yes,Never,Non-anginal Pain,Lifestyle Changes,30-39,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,449
+Female,62,126,167,No,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG),60-69,Low,Elevated,1,At Risk,Yes,Low,450
+Female,45,149,217,No,Current,Typical Angina,Angioplasty,40-49,Borderline High,High Blood Pressure Stage 2,2,At Risk,Yes,Low,451
+Female,55,164,252,Yes,Former,Typical Angina,Medication,50-59,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,452
+Female,33,181,290,Yes,Former,Typical Angina,Angioplasty,30-39,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,453
+Female,66,107,263,No,Never,Atypical Angina,Medication,60-69,High,Normal,1,Unhealthy,No,Moderate,454
+Male,52,191,175,No,Former,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),50-59,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,455
+Male,66,151,177,Yes,Never,Typical Angina,Medication,60-69,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,456
+Female,85,119,160,Yes,Never,Asymptomatic,Medication,80+,Low,Normal,0,Healthy,No,Low,457
+Female,64,152,213,Yes,Never,Typical Angina,Coronary Artery Bypass Graft (CABG),60-69,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,458
+Male,40,95,196,No,Current,Typical Angina,Angioplasty,40-49,Low,Normal,1,Healthy,Yes,Low,459
+Male,67,188,230,Yes,Former,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),60-69,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,460
+Female,43,96,185,Yes,Never,Non-anginal Pain,Medication,40-49,Low,Normal,0,Healthy,No,Low,461
+Male,45,191,174,No,Former,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),40-49,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,462
+Female,49,150,247,No,Never,Atypical Angina,Medication,40-49,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Moderate,463
+Male,50,168,244,No,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG),50-59,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,464
+Female,77,119,195,No,Former,Typical Angina,Lifestyle Changes,70-79,Low,Normal,0,Healthy,No,High,465
+Male,37,127,278,No,Never,Non-anginal Pain,Lifestyle Changes,30-39,High,Elevated,1,At Risk,No,Low,466
+Female,44,106,221,Yes,Current,Typical Angina,Coronary Artery Bypass Graft (CABG),40-49,Borderline High,Normal,1,At Risk,Yes,Low,467
+Male,83,160,256,Yes,Former,Asymptomatic,Angioplasty,80+,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,468
+Male,42,127,245,No,Current,Asymptomatic,Medication,40-49,High,Elevated,2,At Risk,Yes,Low,469
+Female,88,126,285,No,Current,Non-anginal Pain,Lifestyle Changes,80+,High,Elevated,2,At Risk,Yes,Low,470
+Male,58,142,272,No,Never,Non-anginal Pain,Angioplasty,50-59,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,471
+Female,72,173,266,No,Never,Asymptomatic,Medication,70-79,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,472
+Male,68,136,196,No,Never,Non-anginal Pain,Lifestyle Changes,60-69,Low,High Blood Pressure Stage 1,0,Unhealthy,No,Low,473
+Female,60,189,244,Yes,Former,Atypical Angina,Lifestyle Changes,60-69,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,474
+Male,31,169,153,Yes,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG),30-39,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,475
+Female,88,134,182,Yes,Never,Non-anginal Pain,Medication,80+,Low,High Blood Pressure Stage 1,0,Unhealthy,No,Low,476
+Male,62,132,191,Yes,Former,Asymptomatic,Angioplasty,60-69,Low,High Blood Pressure Stage 1,0,Unhealthy,No,Low,477
+Female,49,157,202,No,Former,Typical Angina,Angioplasty,40-49,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,478
+Male,89,117,193,Yes,Never,Non-anginal Pain,Angioplasty,80+,Low,Normal,0,Healthy,No,Low,479
+Female,73,123,202,No,Never,Non-anginal Pain,Medication,70-79,Borderline High,Elevated,0,At Risk,No,Low,480
+Female,48,110,196,No,Never,Typical Angina,Angioplasty,40-49,Low,Normal,0,Healthy,No,Low,481
+Female,42,107,177,No,Never,Non-anginal Pain,Angioplasty,40-49,Low,Normal,0,Healthy,No,Low,482
+Male,64,97,245,Yes,Current,Typical Angina,Angioplasty,60-69,High,Normal,2,Unhealthy,Yes,Low,483
+Female,67,175,240,No,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG),60-69,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,484
+Male,78,137,257,Yes,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG),70-79,High,High Blood Pressure Stage 1,1,Unhealthy,No,Low,485
+Female,68,168,208,Yes,Current,Asymptomatic,Medication,60-69,Borderline High,High Blood Pressure Stage 2,2,At Risk,Yes,Low,486
+Male,85,156,189,No,Former,Atypical Angina,Medication,80+,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Moderate,487
+Female,88,155,217,No,Current,Typical Angina,Angioplasty,80+,Borderline High,High Blood Pressure Stage 2,2,At Risk,Yes,Low,488
+Male,39,147,182,No,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG),30-39,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,489
+Male,60,103,236,Yes,Never,Asymptomatic,Lifestyle Changes,60-69,Borderline High,Normal,0,At Risk,No,Low,490
+Female,49,94,292,No,Current,Atypical Angina,Lifestyle Changes,40-49,High,Normal,2,Unhealthy,Yes,Low,491
+Male,60,171,153,Yes,Current,Typical Angina,Angioplasty,60-69,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,492
+Male,57,149,245,No,Current,Atypical Angina,Angioplasty,50-59,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,493
+Female,57,127,281,No,Current,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),50-59,High,Elevated,2,At Risk,Yes,Low,494
+Male,54,149,217,Yes,Former,Asymptomatic,Coronary Artery Bypass Graft (CABG),50-59,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,495
+Male,80,156,166,Yes,Never,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),80+,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,496
+Male,39,98,168,Yes,Never,Typical Angina,Medication,30-39,Low,Normal,0,Healthy,No,Low,497
+Female,43,95,239,Yes,Former,Atypical Angina,Medication,40-49,Borderline High,Normal,0,At Risk,No,Moderate,498
+Male,83,162,282,Yes,Current,Non-anginal Pain,Angioplasty,80+,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,499
+Female,83,125,260,Yes,Former,Non-anginal Pain,Medication,80+,High,Elevated,1,At Risk,No,Low,500
+Male,66,114,169,No,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG),60-69,Low,Normal,1,Healthy,Yes,Low,501
+Male,58,137,283,No,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG),50-59,High,High Blood Pressure Stage 1,1,Unhealthy,No,Low,502
+Male,40,164,257,Yes,Never,Asymptomatic,Medication,40-49,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,503
+Female,52,121,199,No,Never,Non-anginal Pain,Lifestyle Changes,50-59,Low,Elevated,0,At Risk,No,Low,504
+Male,32,132,199,Yes,Never,Non-anginal Pain,Angioplasty,30-39,Low,High Blood Pressure Stage 1,0,Unhealthy,No,Low,505
+Male,47,148,250,No,Current,Typical Angina,Lifestyle Changes,40-49,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,High,506
+Female,78,129,201,No,Current,Asymptomatic,Angioplasty,70-79,Borderline High,Elevated,1,At Risk,Yes,Low,507
+Male,75,109,194,Yes,Former,Typical Angina,Lifestyle Changes,70-79,Low,Normal,0,Healthy,No,High,508
+Female,60,121,150,Yes,Former,Non-anginal Pain,Medication,60-69,Low,Elevated,0,At Risk,No,Low,509
+Female,83,120,297,Yes,Never,Typical Angina,Angioplasty,80+,High,Elevated,1,At Risk,No,Low,510
+Male,77,171,286,No,Current,Non-anginal Pain,Angioplasty,70-79,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,511
+Female,32,174,239,Yes,Former,Non-anginal Pain,Angioplasty,30-39,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,512
+Male,77,181,299,No,Current,Typical Angina,Coronary Artery Bypass Graft (CABG),70-79,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,513
+Female,48,193,153,Yes,Current,Typical Angina,Coronary Artery Bypass Graft (CABG),40-49,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,514
+Female,71,168,165,No,Never,Atypical Angina,Lifestyle Changes,70-79,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,515
+Male,44,187,252,No,Never,Atypical Angina,Medication,40-49,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Moderate,516
+Female,32,172,199,Yes,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG),30-39,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,517
+Female,36,137,249,No,Current,Non-anginal Pain,Angioplasty,30-39,High,High Blood Pressure Stage 1,2,Unhealthy,Yes,Low,518
+Female,53,145,276,No,Current,Typical Angina,Coronary Artery Bypass Graft (CABG),50-59,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,519
+Female,55,138,248,Yes,Current,Asymptomatic,Medication,50-59,High,High Blood Pressure Stage 1,2,Unhealthy,Yes,Low,520
+Female,70,154,178,No,Never,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),70-79,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,521
+Male,71,99,157,Yes,Former,Asymptomatic,Angioplasty,70-79,Low,Normal,0,Healthy,No,Low,522
+Female,33,96,248,Yes,Never,Typical Angina,Lifestyle Changes,30-39,High,Normal,1,Unhealthy,No,High,523
+Male,31,129,271,Yes,Former,Non-anginal Pain,Angioplasty,30-39,High,Elevated,1,At Risk,No,Low,524
+Female,54,115,194,Yes,Current,Asymptomatic,Medication,50-59,Low,Normal,1,Healthy,Yes,Low,525
+Male,88,106,185,No,Former,Asymptomatic,Lifestyle Changes,80+,Low,Normal,0,Healthy,No,Low,526
+Male,30,178,178,No,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG),30-39,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,527
+Female,40,120,252,No,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG),40-49,High,Elevated,1,At Risk,No,Low,528
+Female,88,198,188,Yes,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG),80+,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,529
+Female,37,195,170,No,Never,Non-anginal Pain,Lifestyle Changes,30-39,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,530
+Male,74,168,279,No,Current,Typical Angina,Angioplasty,70-79,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,531
+Female,57,121,187,Yes,Never,Typical Angina,Lifestyle Changes,50-59,Low,Elevated,0,At Risk,No,High,532
+Male,61,184,185,Yes,Never,Atypical Angina,Lifestyle Changes,60-69,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,533
+Male,33,139,229,No,Current,Atypical Angina,Medication,30-39,Borderline High,High Blood Pressure Stage 1,1,At Risk,Yes,Moderate,534
+Male,44,153,257,Yes,Former,Atypical Angina,Lifestyle Changes,40-49,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,535
+Female,72,167,169,Yes,Never,Asymptomatic,Coronary Artery Bypass Graft (CABG),70-79,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,536
+Female,58,107,297,Yes,Former,Atypical Angina,Angioplasty,50-59,High,Normal,1,Unhealthy,No,Low,537
+Male,83,156,191,Yes,Never,Asymptomatic,Angioplasty,80+,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,538
+Male,61,193,282,No,Never,Typical Angina,Angioplasty,60-69,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,539
+Female,77,131,168,Yes,Never,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),70-79,Low,High Blood Pressure Stage 1,0,Unhealthy,No,Low,540
+Male,83,163,227,Yes,Never,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),80+,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,541
+Female,56,136,150,Yes,Former,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),50-59,Low,High Blood Pressure Stage 1,0,Unhealthy,No,Low,542
+Male,49,162,246,Yes,Former,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),40-49,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,543
+Female,51,118,205,Yes,Never,Asymptomatic,Coronary Artery Bypass Graft (CABG),50-59,Borderline High,Normal,0,At Risk,No,Low,544
+Male,45,162,153,Yes,Never,Asymptomatic,Lifestyle Changes,40-49,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,545
+Female,53,149,239,Yes,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG),50-59,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,546
+Male,71,97,177,Yes,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG),70-79,Low,Normal,1,Healthy,Yes,Low,547
+Female,41,93,191,No,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG),40-49,Low,Normal,1,Healthy,Yes,Low,548
+Female,34,166,215,Yes,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG),30-39,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,549
+Male,52,147,180,No,Never,Non-anginal Pain,Angioplasty,50-59,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,550
+Male,45,137,178,Yes,Never,Asymptomatic,Coronary Artery Bypass Graft (CABG),40-49,Low,High Blood Pressure Stage 1,0,Unhealthy,No,Low,551
+Female,67,92,222,Yes,Current,Asymptomatic,Lifestyle Changes,60-69,Borderline High,Normal,1,At Risk,Yes,Low,552
+Male,54,181,160,Yes,Current,Atypical Angina,Lifestyle Changes,50-59,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,553
+Female,46,149,259,Yes,Former,Atypical Angina,Lifestyle Changes,40-49,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,554
+Male,34,189,214,No,Current,Typical Angina,Medication,30-39,Borderline High,High Blood Pressure Stage 2,2,At Risk,Yes,Low,555
+Female,50,115,242,Yes,Former,Typical Angina,Angioplasty,50-59,High,Normal,1,Unhealthy,No,Low,556
+Female,61,123,227,Yes,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG),60-69,Borderline High,Elevated,1,At Risk,Yes,Low,557
+Female,41,150,275,No,Current,Typical Angina,Medication,40-49,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,558
+Female,36,189,246,No,Current,Typical Angina,Coronary Artery Bypass Graft (CABG),30-39,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,559
+Female,54,192,224,Yes,Never,Atypical Angina,Medication,50-59,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Moderate,560
+Female,41,101,232,No,Never,Atypical Angina,Medication,40-49,Borderline High,Normal,0,At Risk,No,Moderate,561
+Male,77,116,233,No,Never,Asymptomatic,Lifestyle Changes,70-79,Borderline High,Normal,0,At Risk,No,Low,562
+Male,69,105,276,No,Current,Atypical Angina,Lifestyle Changes,60-69,High,Normal,2,Unhealthy,Yes,Low,563
+Male,78,197,287,Yes,Former,Atypical Angina,Medication,70-79,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Moderate,564
+Female,62,176,297,Yes,Former,Non-anginal Pain,Lifestyle Changes,60-69,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,565
+Female,74,174,242,Yes,Former,Asymptomatic,Medication,70-79,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,566
+Female,48,93,243,No,Former,Asymptomatic,Angioplasty,40-49,High,Normal,1,Unhealthy,No,Low,567
+Female,71,198,270,Yes,Never,Asymptomatic,Lifestyle Changes,70-79,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,568
+Male,71,182,230,No,Never,Non-anginal Pain,Lifestyle Changes,70-79,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,569
+Male,43,141,217,Yes,Current,Atypical Angina,Lifestyle Changes,40-49,Borderline High,High Blood Pressure Stage 2,2,At Risk,Yes,Low,570
+Female,69,129,287,Yes,Current,Asymptomatic,Angioplasty,60-69,High,Elevated,2,At Risk,Yes,Low,571
+Male,41,196,156,No,Former,Asymptomatic,Medication,40-49,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,572
+Male,88,97,283,Yes,Never,Typical Angina,Coronary Artery Bypass Graft (CABG),80+,High,Normal,1,Unhealthy,No,Low,573
+Female,79,109,269,No,Former,Asymptomatic,Lifestyle Changes,70-79,High,Normal,1,Unhealthy,No,Low,574
+Male,47,97,226,No,Current,Atypical Angina,Medication,40-49,Borderline High,Normal,1,At Risk,Yes,Moderate,575
+Female,34,185,292,Yes,Current,Atypical Angina,Angioplasty,30-39,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,576
+Male,73,113,274,No,Former,Typical Angina,Coronary Artery Bypass Graft (CABG),70-79,High,Normal,1,Unhealthy,No,Low,577
+Female,40,180,181,Yes,Current,Asymptomatic,Lifestyle Changes,40-49,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,578
+Female,88,195,287,Yes,Former,Asymptomatic,Angioplasty,80+,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,579
+Female,62,195,238,No,Never,Asymptomatic,Angioplasty,60-69,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,580
+Female,39,109,166,Yes,Former,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),30-39,Low,Normal,0,Healthy,No,Low,581
+Male,42,92,213,No,Never,Asymptomatic,Medication,40-49,Borderline High,Normal,0,At Risk,No,Low,582
+Female,43,155,175,Yes,Never,Atypical Angina,Lifestyle Changes,40-49,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,583
+Female,49,193,293,Yes,Current,Atypical Angina,Lifestyle Changes,40-49,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,584
+Female,79,151,273,Yes,Current,Non-anginal Pain,Medication,70-79,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,585
+Male,66,130,278,Yes,Current,Non-anginal Pain,Medication,60-69,High,High Blood Pressure Stage 1,2,Unhealthy,Yes,Low,586
+Female,58,111,159,Yes,Former,Asymptomatic,Medication,50-59,Low,Normal,0,Healthy,No,Low,587
+Male,83,184,181,No,Former,Typical Angina,Coronary Artery Bypass Graft (CABG),80+,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,588
+Female,30,106,270,No,Current,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),30-39,High,Normal,2,Unhealthy,Yes,Low,589
+Male,78,156,258,No,Former,Non-anginal Pain,Lifestyle Changes,70-79,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,590
+Male,42,184,299,No,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG),40-49,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,591
+Female,68,141,248,No,Former,Asymptomatic,Angioplasty,60-69,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,592
+Male,55,171,186,No,Never,Non-anginal Pain,Lifestyle Changes,50-59,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,593
+Female,62,144,295,Yes,Never,Typical Angina,Coronary Artery Bypass Graft (CABG),60-69,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,594
+Female,62,189,182,Yes,Current,Non-anginal Pain,Medication,60-69,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,595
+Female,76,199,225,No,Former,Asymptomatic,Angioplasty,70-79,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,596
+Male,57,198,258,No,Former,Asymptomatic,Medication,50-59,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,597
+Male,44,193,184,Yes,Never,Non-anginal Pain,Lifestyle Changes,40-49,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,598
+Female,75,183,155,Yes,Never,Typical Angina,Medication,70-79,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,599
+Female,33,193,256,Yes,Current,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),30-39,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,600
+Male,52,183,227,No,Never,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),50-59,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,601
+Female,49,137,154,No,Current,Asymptomatic,Lifestyle Changes,40-49,Low,High Blood Pressure Stage 1,1,Unhealthy,Yes,Low,602
+Female,84,116,249,No,Never,Typical Angina,Medication,80+,High,Normal,1,Unhealthy,No,Low,603
+Female,54,97,249,Yes,Never,Atypical Angina,Lifestyle Changes,50-59,High,Normal,1,Unhealthy,No,Low,604
+Male,79,188,154,Yes,Former,Typical Angina,Medication,70-79,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,605
+Male,66,150,233,No,Never,Non-anginal Pain,Angioplasty,60-69,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,606
+Male,48,147,259,No,Never,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),40-49,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,607
+Female,56,138,224,Yes,Current,Non-anginal Pain,Lifestyle Changes,50-59,Borderline High,High Blood Pressure Stage 1,1,At Risk,Yes,Low,608
+Female,60,145,186,Yes,Never,Typical Angina,Angioplasty,60-69,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,609
+Female,68,191,203,Yes,Current,Asymptomatic,Angioplasty,60-69,Borderline High,High Blood Pressure Stage 2,2,At Risk,Yes,Low,610
+Male,74,140,154,Yes,Never,Non-anginal Pain,Lifestyle Changes,70-79,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,611
+Female,81,118,217,No,Never,Non-anginal Pain,Lifestyle Changes,80+,Borderline High,Normal,0,At Risk,No,Low,612
+Female,36,144,185,Yes,Current,Typical Angina,Angioplasty,30-39,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,613
+Female,82,93,235,Yes,Former,Atypical Angina,Medication,80+,Borderline High,Normal,0,At Risk,No,Moderate,614
+Female,88,95,234,Yes,Current,Atypical Angina,Angioplasty,80+,Borderline High,Normal,1,At Risk,Yes,Low,615
+Male,68,190,182,No,Current,Asymptomatic,Lifestyle Changes,60-69,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,616
+Male,39,185,260,No,Current,Asymptomatic,Angioplasty,30-39,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,617
+Female,71,112,195,Yes,Former,Non-anginal Pain,Medication,70-79,Low,Normal,0,Healthy,No,Low,618
+Male,52,147,156,Yes,Never,Typical Angina,Coronary Artery Bypass Graft (CABG),50-59,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,619
+Male,36,114,236,Yes,Current,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),30-39,Borderline High,Normal,1,At Risk,Yes,Low,620
+Female,75,150,187,No,Current,Asymptomatic,Angioplasty,70-79,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,621
+Female,51,170,246,No,Former,Typical Angina,Medication,50-59,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,622
+Male,57,184,185,No,Current,Typical Angina,Coronary Artery Bypass Graft (CABG),50-59,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,623
+Female,70,192,261,Yes,Never,Asymptomatic,Angioplasty,70-79,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,624
+Male,87,91,184,No,Former,Atypical Angina,Angioplasty,80+,Low,Normal,0,Healthy,No,Low,625
+Female,62,162,246,Yes,Never,Atypical Angina,Medication,60-69,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Moderate,626
+Male,63,123,249,Yes,Never,Typical Angina,Lifestyle Changes,60-69,High,Elevated,1,At Risk,No,High,627
+Female,82,115,279,Yes,Former,Non-anginal Pain,Angioplasty,80+,High,Normal,1,Unhealthy,No,Low,628
+Male,36,155,170,No,Current,Atypical Angina,Lifestyle Changes,30-39,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,629
+Male,78,115,227,Yes,Never,Non-anginal Pain,Lifestyle Changes,70-79,Borderline High,Normal,0,At Risk,No,Low,630
+Male,71,141,159,No,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG),70-79,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,631
+Female,49,155,213,No,Never,Atypical Angina,Lifestyle Changes,40-49,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,632
+Male,58,170,290,Yes,Never,Non-anginal Pain,Medication,50-59,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,633
+Male,72,162,292,Yes,Former,Asymptomatic,Coronary Artery Bypass Graft (CABG),70-79,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,634
+Female,32,182,236,No,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG),30-39,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,635
+Female,33,137,289,Yes,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG),30-39,High,High Blood Pressure Stage 1,1,Unhealthy,No,Low,636
+Male,40,169,201,No,Current,Non-anginal Pain,Angioplasty,40-49,Borderline High,High Blood Pressure Stage 2,2,At Risk,Yes,Low,637
+Male,51,100,212,Yes,Never,Asymptomatic,Angioplasty,50-59,Borderline High,Normal,0,At Risk,No,Low,638
+Female,78,189,263,No,Current,Atypical Angina,Lifestyle Changes,70-79,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,639
+Female,47,151,264,No,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG),40-49,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,640
+Female,50,122,171,No,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG),50-59,Low,Elevated,1,At Risk,Yes,Low,641
+Female,44,99,291,No,Never,Atypical Angina,Medication,40-49,High,Normal,1,Unhealthy,No,Moderate,642
+Female,83,138,154,Yes,Current,Asymptomatic,Lifestyle Changes,80+,Low,High Blood Pressure Stage 1,1,Unhealthy,Yes,Low,643
+Male,57,134,299,Yes,Never,Asymptomatic,Medication,50-59,High,High Blood Pressure Stage 1,1,Unhealthy,No,Low,644
+Female,69,133,196,No,Never,Non-anginal Pain,Lifestyle Changes,60-69,Low,High Blood Pressure Stage 1,0,Unhealthy,No,Low,645
+Male,34,143,273,No,Current,Typical Angina,Lifestyle Changes,30-39,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,High,646
+Male,36,92,173,Yes,Former,Asymptomatic,Angioplasty,30-39,Low,Normal,0,Healthy,No,Low,647
+Male,32,92,185,Yes,Current,Non-anginal Pain,Angioplasty,30-39,Low,Normal,1,Healthy,Yes,Low,648
+Female,78,192,223,Yes,Former,Typical Angina,Medication,70-79,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,649
+Male,39,116,217,Yes,Never,Atypical Angina,Lifestyle Changes,30-39,Borderline High,Normal,0,At Risk,No,Low,650
+Male,68,144,256,Yes,Current,Typical Angina,Coronary Artery Bypass Graft (CABG),60-69,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,651
+Female,44,181,233,Yes,Current,Asymptomatic,Angioplasty,40-49,Borderline High,High Blood Pressure Stage 2,2,At Risk,Yes,Low,652
+Male,32,129,179,No,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG),30-39,Low,Elevated,1,At Risk,Yes,Low,653
+Male,86,146,180,Yes,Former,Asymptomatic,Medication,80+,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,654
+Female,38,157,244,Yes,Former,Asymptomatic,Angioplasty,30-39,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,655
+Male,37,125,203,No,Never,Asymptomatic,Angioplasty,30-39,Borderline High,Elevated,0,At Risk,No,Low,656
+Male,45,164,181,Yes,Former,Non-anginal Pain,Lifestyle Changes,40-49,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,657
+Male,83,139,159,Yes,Former,Asymptomatic,Medication,80+,Low,High Blood Pressure Stage 1,0,Unhealthy,No,Low,658
+Female,65,110,271,Yes,Never,Non-anginal Pain,Lifestyle Changes,60-69,High,Normal,1,Unhealthy,No,Low,659
+Female,88,183,283,Yes,Current,Atypical Angina,Angioplasty,80+,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,660
+Female,54,134,182,Yes,Current,Asymptomatic,Medication,50-59,Low,High Blood Pressure Stage 1,1,Unhealthy,Yes,Low,661
+Male,70,147,247,No,Never,Asymptomatic,Angioplasty,70-79,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,662
+Male,88,133,171,Yes,Current,Typical Angina,Medication,80+,Low,High Blood Pressure Stage 1,1,Unhealthy,Yes,Low,663
+Female,36,107,248,No,Former,Atypical Angina,Angioplasty,30-39,High,Normal,1,Unhealthy,No,Low,664
+Male,48,170,184,No,Never,Asymptomatic,Coronary Artery Bypass Graft (CABG),40-49,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,665
+Male,66,171,214,Yes,Never,Asymptomatic,Coronary Artery Bypass Graft (CABG),60-69,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,666
+Female,64,189,225,No,Never,Atypical Angina,Lifestyle Changes,60-69,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,667
+Female,51,191,222,Yes,Current,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),50-59,Borderline High,High Blood Pressure Stage 2,2,At Risk,Yes,Low,668
+Male,86,110,265,No,Never,Asymptomatic,Angioplasty,80+,High,Normal,1,Unhealthy,No,Low,669
+Male,64,155,269,No,Never,Typical Angina,Angioplasty,60-69,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,670
+Male,33,137,153,Yes,Never,Asymptomatic,Coronary Artery Bypass Graft (CABG),30-39,Low,High Blood Pressure Stage 1,0,Unhealthy,No,Low,671
+Female,87,101,217,Yes,Current,Typical Angina,Lifestyle Changes,80+,Borderline High,Normal,1,At Risk,Yes,High,672
+Female,71,117,279,Yes,Former,Typical Angina,Coronary Artery Bypass Graft (CABG),70-79,High,Normal,1,Unhealthy,No,Low,673
+Female,47,98,214,Yes,Never,Asymptomatic,Medication,40-49,Borderline High,Normal,0,At Risk,No,Low,674
+Female,52,141,269,Yes,Former,Asymptomatic,Medication,50-59,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,675
+Male,64,152,198,No,Current,Typical Angina,Medication,60-69,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,676
+Female,85,97,175,No,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG),80+,Low,Normal,1,Healthy,Yes,Low,677
+Female,70,169,226,No,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG),70-79,Borderline High,High Blood Pressure Stage 2,2,At Risk,Yes,Low,678
+Female,65,118,270,No,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG),60-69,High,Normal,2,Unhealthy,Yes,Low,679
+Female,53,196,231,No,Former,Non-anginal Pain,Medication,50-59,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,680
+Female,55,115,169,No,Never,Atypical Angina,Lifestyle Changes,50-59,Low,Normal,0,Healthy,No,Low,681
+Male,63,152,245,No,Current,Asymptomatic,Angioplasty,60-69,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,682
+Male,84,190,292,Yes,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG),80+,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,683
+Female,55,191,292,Yes,Former,Non-anginal Pain,Lifestyle Changes,50-59,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,684
+Male,41,106,174,No,Former,Asymptomatic,Angioplasty,40-49,Low,Normal,0,Healthy,No,Low,685
+Female,40,180,167,No,Current,Non-anginal Pain,Angioplasty,40-49,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,686
+Female,34,124,160,Yes,Never,Asymptomatic,Angioplasty,30-39,Low,Elevated,0,At Risk,No,Low,687
+Male,71,168,259,Yes,Never,Non-anginal Pain,Lifestyle Changes,70-79,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,688
+Male,67,115,209,Yes,Current,Atypical Angina,Lifestyle Changes,60-69,Borderline High,Normal,1,At Risk,Yes,Low,689
+Female,78,101,161,Yes,Former,Atypical Angina,Medication,70-79,Low,Normal,0,Healthy,No,Moderate,690
+Female,77,169,240,No,Current,Non-anginal Pain,Lifestyle Changes,70-79,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,691
+Female,58,112,203,Yes,Current,Non-anginal Pain,Lifestyle Changes,50-59,Borderline High,Normal,1,At Risk,Yes,Low,692
+Male,82,162,251,No,Former,Non-anginal Pain,Lifestyle Changes,80+,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,693
+Female,47,167,259,No,Current,Asymptomatic,Angioplasty,40-49,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,694
+Female,54,132,285,No,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG),50-59,High,High Blood Pressure Stage 1,2,Unhealthy,Yes,Low,695
+Female,64,119,223,Yes,Current,Asymptomatic,Medication,60-69,Borderline High,Normal,1,At Risk,Yes,Low,696
+Male,73,129,274,Yes,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG),70-79,High,Elevated,1,At Risk,No,Low,697
+Female,60,90,238,No,Never,Typical Angina,Coronary Artery Bypass Graft (CABG),60-69,Borderline High,Normal,0,At Risk,No,Low,698
+Female,53,195,263,No,Never,Asymptomatic,Lifestyle Changes,50-59,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,699
+Male,49,150,293,No,Former,Atypical Angina,Medication,40-49,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Moderate,700
+Female,38,168,181,Yes,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG),30-39,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,701
+Female,86,154,233,No,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG),80+,Borderline High,High Blood Pressure Stage 2,2,At Risk,Yes,Low,702
+Male,31,126,165,Yes,Never,Asymptomatic,Medication,30-39,Low,Elevated,0,At Risk,No,Low,703
+Female,84,174,210,No,Current,Atypical Angina,Lifestyle Changes,80+,Borderline High,High Blood Pressure Stage 2,2,At Risk,Yes,Low,704
+Male,68,97,182,No,Never,Asymptomatic,Coronary Artery Bypass Graft (CABG),60-69,Low,Normal,0,Healthy,No,Low,705
+Male,39,147,164,No,Former,Non-anginal Pain,Angioplasty,30-39,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,706
+Female,59,188,259,Yes,Never,Asymptomatic,Coronary Artery Bypass Graft (CABG),50-59,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,707
+Female,34,159,167,Yes,Never,Asymptomatic,Angioplasty,30-39,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,708
+Female,70,98,248,No,Never,Asymptomatic,Lifestyle Changes,70-79,High,Normal,1,Unhealthy,No,Low,709
+Female,45,144,239,Yes,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG),40-49,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,710
+Male,67,154,182,No,Never,Non-anginal Pain,Medication,60-69,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,711
+Female,35,179,185,Yes,Former,Typical Angina,Medication,30-39,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,712
+Male,60,186,210,Yes,Current,Typical Angina,Coronary Artery Bypass Graft (CABG),60-69,Borderline High,High Blood Pressure Stage 2,2,At Risk,Yes,Low,713
+Female,49,109,181,Yes,Never,Non-anginal Pain,Lifestyle Changes,40-49,Low,Normal,0,Healthy,No,Low,714
+Female,60,161,248,No,Former,Non-anginal Pain,Lifestyle Changes,60-69,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,715
+Female,82,151,250,Yes,Former,Non-anginal Pain,Medication,80+,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,716
+Male,81,111,222,Yes,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG),80+,Borderline High,Normal,0,At Risk,No,Low,717
+Female,54,132,200,No,Current,Typical Angina,Lifestyle Changes,50-59,Borderline High,High Blood Pressure Stage 1,1,At Risk,Yes,High,718
+Female,84,147,217,No,Former,Non-anginal Pain,Medication,80+,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,719
+Female,63,96,241,No,Never,Atypical Angina,Angioplasty,60-69,High,Normal,1,Unhealthy,No,Low,720
+Female,54,111,162,No,Current,Typical Angina,Coronary Artery Bypass Graft (CABG),50-59,Low,Normal,1,Healthy,Yes,Low,721
+Male,71,176,223,Yes,Former,Asymptomatic,Angioplasty,70-79,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,722
+Female,35,103,208,Yes,Former,Atypical Angina,Angioplasty,30-39,Borderline High,Normal,0,At Risk,No,Low,723
+Male,72,183,295,Yes,Current,Typical Angina,Lifestyle Changes,70-79,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,High,724
+Male,34,188,192,Yes,Current,Atypical Angina,Lifestyle Changes,30-39,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,725
+Male,36,193,243,Yes,Never,Typical Angina,Lifestyle Changes,30-39,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,High,726
+Male,39,153,178,No,Never,Typical Angina,Coronary Artery Bypass Graft (CABG),30-39,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,727
+Male,55,163,230,Yes,Former,Asymptomatic,Angioplasty,50-59,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,728
+Male,35,103,172,Yes,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG),30-39,Low,Normal,1,Healthy,Yes,Low,729
+Female,67,149,189,Yes,Current,Non-anginal Pain,Lifestyle Changes,60-69,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,730
+Male,73,137,246,No,Current,Asymptomatic,Angioplasty,70-79,High,High Blood Pressure Stage 1,2,Unhealthy,Yes,Low,731
+Male,32,182,219,No,Former,Asymptomatic,Coronary Artery Bypass Graft (CABG),30-39,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,732
+Male,54,93,159,Yes,Current,Typical Angina,Coronary Artery Bypass Graft (CABG),50-59,Low,Normal,1,Healthy,Yes,Low,733
+Female,85,147,258,No,Current,Non-anginal Pain,Medication,80+,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,734
+Female,72,168,268,No,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG),70-79,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,735
+Male,89,121,267,No,Never,Non-anginal Pain,Lifestyle Changes,80+,High,Elevated,1,At Risk,No,Low,736
+Female,80,98,210,No,Never,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),80+,Borderline High,Normal,0,At Risk,No,Low,737
+Male,79,192,279,No,Former,Non-anginal Pain,Angioplasty,70-79,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,738
+Male,56,141,191,No,Current,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),50-59,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,739
+Female,74,145,279,No,Former,Non-anginal Pain,Medication,70-79,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,740
+Male,63,157,238,Yes,Never,Typical Angina,Angioplasty,60-69,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,741
+Female,54,132,176,Yes,Never,Typical Angina,Angioplasty,50-59,Low,High Blood Pressure Stage 1,0,Unhealthy,No,Low,742
+Female,30,106,199,No,Former,Asymptomatic,Medication,30-39,Low,Normal,0,Healthy,No,Low,743
+Male,80,179,250,Yes,Former,Typical Angina,Lifestyle Changes,80+,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,High,744
+Male,74,99,220,Yes,Never,Asymptomatic,Angioplasty,70-79,Borderline High,Normal,0,At Risk,No,Low,745
+Female,37,151,209,No,Former,Asymptomatic,Lifestyle Changes,30-39,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,746
+Male,46,108,278,Yes,Never,Atypical Angina,Angioplasty,40-49,High,Normal,1,Unhealthy,No,Low,747
+Male,71,111,154,No,Former,Non-anginal Pain,Angioplasty,70-79,Low,Normal,0,Healthy,No,Low,748
+Male,86,131,185,No,Former,Typical Angina,Lifestyle Changes,80+,Low,High Blood Pressure Stage 1,0,Unhealthy,No,High,749
+Female,82,147,297,No,Former,Atypical Angina,Angioplasty,80+,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,750
+Female,46,99,270,Yes,Never,Typical Angina,Lifestyle Changes,40-49,High,Normal,1,Unhealthy,No,High,751
+Male,46,180,253,Yes,Former,Asymptomatic,Medication,40-49,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,752
+Female,54,144,177,Yes,Never,Typical Angina,Lifestyle Changes,50-59,Low,High Blood Pressure Stage 2,1,Unhealthy,No,High,753
+Female,62,97,157,Yes,Never,Non-anginal Pain,Medication,60-69,Low,Normal,0,Healthy,No,Low,754
+Female,88,160,230,No,Former,Asymptomatic,Angioplasty,80+,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,755
+Female,42,197,207,No,Former,Asymptomatic,Lifestyle Changes,40-49,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,756
+Female,84,138,233,Yes,Never,Atypical Angina,Angioplasty,80+,Borderline High,High Blood Pressure Stage 1,0,At Risk,No,Low,757
+Male,44,112,160,No,Never,Non-anginal Pain,Lifestyle Changes,40-49,Low,Normal,0,Healthy,No,Low,758
+Male,71,184,207,No,Current,Asymptomatic,Medication,70-79,Borderline High,High Blood Pressure Stage 2,2,At Risk,Yes,Low,759
+Male,81,95,209,Yes,Never,Non-anginal Pain,Medication,80+,Borderline High,Normal,0,At Risk,No,Low,760
+Female,58,199,201,No,Current,Typical Angina,Lifestyle Changes,50-59,Borderline High,High Blood Pressure Stage 2,2,At Risk,Yes,High,761
+Female,64,142,174,Yes,Current,Non-anginal Pain,Medication,60-69,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,762
+Male,59,150,266,No,Current,Asymptomatic,Angioplasty,50-59,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,763
+Female,55,169,190,Yes,Former,Atypical Angina,Angioplasty,50-59,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,764
+Male,54,129,255,No,Former,Asymptomatic,Coronary Artery Bypass Graft (CABG),50-59,High,Elevated,1,At Risk,No,Low,765
+Male,86,181,225,No,Never,Non-anginal Pain,Medication,80+,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,766
+Male,58,179,181,Yes,Current,Non-anginal Pain,Angioplasty,50-59,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,767
+Female,58,108,255,Yes,Former,Asymptomatic,Lifestyle Changes,50-59,High,Normal,1,Unhealthy,No,Low,768
+Female,66,122,174,Yes,Former,Non-anginal Pain,Medication,60-69,Low,Elevated,0,At Risk,No,Low,769
+Male,66,166,212,Yes,Former,Typical Angina,Angioplasty,60-69,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,770
+Male,68,194,241,No,Former,Asymptomatic,Medication,60-69,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,771
+Male,64,96,243,No,Former,Atypical Angina,Lifestyle Changes,60-69,High,Normal,1,Unhealthy,No,Low,772
+Male,48,123,205,Yes,Current,Asymptomatic,Angioplasty,40-49,Borderline High,Elevated,1,At Risk,Yes,Low,773
+Female,88,189,272,No,Current,Typical Angina,Coronary Artery Bypass Graft (CABG),80+,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,774
+Female,35,172,294,Yes,Current,Typical Angina,Coronary Artery Bypass Graft (CABG),30-39,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,775
+Male,51,113,182,Yes,Current,Typical Angina,Medication,50-59,Low,Normal,1,Healthy,Yes,Low,776
+Male,40,143,269,No,Never,Typical Angina,Lifestyle Changes,40-49,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,High,777
+Female,36,150,287,No,Current,Typical Angina,Angioplasty,30-39,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,778
+Female,50,174,209,Yes,Former,Atypical Angina,Lifestyle Changes,50-59,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,779
+Male,58,90,203,Yes,Current,Non-anginal Pain,Angioplasty,50-59,Borderline High,Normal,1,At Risk,Yes,Low,780
+Male,54,106,278,Yes,Never,Typical Angina,Medication,50-59,High,Normal,1,Unhealthy,No,Low,781
+Male,30,159,266,No,Former,Typical Angina,Angioplasty,30-39,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,782
+Female,42,122,174,No,Current,Asymptomatic,Lifestyle Changes,40-49,Low,Elevated,1,At Risk,Yes,Low,783
+Female,74,168,245,No,Current,Atypical Angina,Lifestyle Changes,70-79,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,784
+Female,49,173,244,No,Current,Atypical Angina,Medication,40-49,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Moderate,785
+Male,75,123,167,Yes,Former,Non-anginal Pain,Lifestyle Changes,70-79,Low,Elevated,0,At Risk,No,Low,786
+Male,68,107,232,Yes,Former,Atypical Angina,Angioplasty,60-69,Borderline High,Normal,0,At Risk,No,Low,787
+Female,77,157,207,Yes,Never,Asymptomatic,Medication,70-79,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,788
+Female,54,161,163,Yes,Former,Asymptomatic,Angioplasty,50-59,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,789
+Male,85,155,230,Yes,Former,Non-anginal Pain,Lifestyle Changes,80+,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,790
+Female,89,193,237,Yes,Current,Asymptomatic,Medication,80+,Borderline High,High Blood Pressure Stage 2,2,At Risk,Yes,Low,791
+Female,46,170,246,No,Former,Typical Angina,Angioplasty,40-49,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,792
+Male,54,137,239,No,Current,Typical Angina,Lifestyle Changes,50-59,Borderline High,High Blood Pressure Stage 1,1,At Risk,Yes,High,793
+Female,74,123,159,Yes,Current,Asymptomatic,Lifestyle Changes,70-79,Low,Elevated,1,At Risk,Yes,Low,794
+Male,76,154,165,Yes,Former,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),70-79,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,795
+Male,87,158,174,No,Never,Atypical Angina,Lifestyle Changes,80+,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,796
+Male,39,120,251,No,Never,Non-anginal Pain,Angioplasty,30-39,High,Elevated,1,At Risk,No,Low,797
+Male,68,160,288,No,Former,Atypical Angina,Medication,60-69,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Moderate,798
+Male,51,198,285,No,Never,Asymptomatic,Coronary Artery Bypass Graft (CABG),50-59,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,799
+Male,55,154,283,Yes,Current,Asymptomatic,Lifestyle Changes,50-59,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,800
+Male,56,131,285,Yes,Current,Typical Angina,Lifestyle Changes,50-59,High,High Blood Pressure Stage 1,2,Unhealthy,Yes,High,801
+Female,49,152,182,Yes,Former,Atypical Angina,Lifestyle Changes,40-49,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,802
+Male,43,120,216,Yes,Never,Non-anginal Pain,Angioplasty,40-49,Borderline High,Elevated,0,At Risk,No,Low,803
+Male,75,146,283,Yes,Never,Asymptomatic,Coronary Artery Bypass Graft (CABG),70-79,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,804
+Female,77,113,211,No,Current,Non-anginal Pain,Angioplasty,70-79,Borderline High,Normal,1,At Risk,Yes,Low,805
+Female,58,159,230,Yes,Former,Typical Angina,Coronary Artery Bypass Graft (CABG),50-59,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,806
+Female,71,153,154,No,Never,Atypical Angina,Medication,70-79,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Moderate,807
+Male,86,166,177,Yes,Former,Atypical Angina,Angioplasty,80+,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,808
+Female,48,114,251,Yes,Never,Asymptomatic,Angioplasty,40-49,High,Normal,1,Unhealthy,No,Low,809
+Male,62,164,229,Yes,Current,Atypical Angina,Medication,60-69,Borderline High,High Blood Pressure Stage 2,2,At Risk,Yes,Moderate,810
+Male,52,107,200,Yes,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG),50-59,Borderline High,Normal,1,At Risk,Yes,Low,811
+Male,44,193,202,Yes,Former,Typical Angina,Lifestyle Changes,40-49,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,High,812
+Male,58,166,191,No,Current,Atypical Angina,Medication,50-59,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Moderate,813
+Female,87,197,267,No,Never,Asymptomatic,Lifestyle Changes,80+,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,814
+Female,66,120,250,No,Current,Non-anginal Pain,Lifestyle Changes,60-69,High,Elevated,2,At Risk,Yes,Low,815
+Male,41,98,193,Yes,Former,Asymptomatic,Medication,40-49,Low,Normal,0,Healthy,No,Low,816
+Male,39,173,227,Yes,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG),30-39,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,817
+Male,45,156,287,No,Former,Typical Angina,Lifestyle Changes,40-49,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,High,818
+Female,88,182,191,Yes,Never,Atypical Angina,Medication,80+,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Moderate,819
+Male,69,92,209,Yes,Never,Atypical Angina,Angioplasty,60-69,Borderline High,Normal,0,At Risk,No,Low,820
+Male,69,198,158,No,Never,Asymptomatic,Angioplasty,60-69,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,821
+Female,73,136,297,Yes,Never,Non-anginal Pain,Angioplasty,70-79,High,High Blood Pressure Stage 1,1,Unhealthy,No,Low,822
+Female,41,144,171,No,Never,Atypical Angina,Medication,40-49,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Moderate,823
+Male,83,142,242,Yes,Current,Non-anginal Pain,Angioplasty,80+,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,824
+Female,46,134,185,No,Never,Asymptomatic,Lifestyle Changes,40-49,Low,High Blood Pressure Stage 1,0,Unhealthy,No,Low,825
+Female,45,182,227,Yes,Never,Non-anginal Pain,Angioplasty,40-49,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,826
+Male,55,124,185,Yes,Current,Asymptomatic,Angioplasty,50-59,Low,Elevated,1,At Risk,Yes,Low,827
+Female,72,149,161,No,Never,Typical Angina,Lifestyle Changes,70-79,Low,High Blood Pressure Stage 2,1,Unhealthy,No,High,828
+Male,66,179,150,Yes,Former,Non-anginal Pain,Angioplasty,60-69,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,829
+Female,62,135,151,Yes,Never,Non-anginal Pain,Lifestyle Changes,60-69,Low,High Blood Pressure Stage 1,0,Unhealthy,No,Low,830
+Male,65,190,162,No,Never,Typical Angina,Angioplasty,60-69,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,831
+Male,58,150,227,Yes,Former,Non-anginal Pain,Lifestyle Changes,50-59,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,832
+Male,69,141,210,No,Former,Typical Angina,Angioplasty,60-69,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,833
+Female,33,150,150,Yes,Former,Atypical Angina,Lifestyle Changes,30-39,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,834
+Male,78,92,210,Yes,Former,Asymptomatic,Medication,70-79,Borderline High,Normal,0,At Risk,No,Low,835
+Female,70,147,218,Yes,Never,Typical Angina,Lifestyle Changes,70-79,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,High,836
+Male,37,155,286,Yes,Former,Non-anginal Pain,Angioplasty,30-39,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,837
+Male,31,192,283,No,Former,Typical Angina,Angioplasty,30-39,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,838
+Female,84,163,181,Yes,Current,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),80+,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,839
+Male,69,120,194,No,Former,Atypical Angina,Lifestyle Changes,60-69,Low,Elevated,0,At Risk,No,Low,840
+Male,41,98,193,Yes,Former,Typical Angina,Medication,40-49,Low,Normal,0,Healthy,No,Low,841
+Female,50,154,186,Yes,Current,Atypical Angina,Lifestyle Changes,50-59,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,842
+Male,61,142,254,Yes,Current,Asymptomatic,Lifestyle Changes,60-69,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,843
+Male,55,194,225,Yes,Never,Non-anginal Pain,Medication,50-59,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,844
+Male,36,92,240,No,Current,Non-anginal Pain,Lifestyle Changes,30-39,High,Normal,1,Unhealthy,Yes,Low,845
+Male,67,178,297,No,Never,Atypical Angina,Medication,60-69,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Moderate,846
+Female,76,161,154,No,Current,Asymptomatic,Medication,70-79,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,847
+Female,86,154,185,No,Current,Typical Angina,Lifestyle Changes,80+,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,High,848
+Male,61,173,239,Yes,Never,Typical Angina,Lifestyle Changes,60-69,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,High,849
+Female,46,157,233,No,Current,Non-anginal Pain,Angioplasty,40-49,Borderline High,High Blood Pressure Stage 2,2,At Risk,Yes,Low,850
+Male,58,168,268,No,Never,Atypical Angina,Angioplasty,50-59,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,851
+Female,33,110,261,Yes,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG),30-39,High,Normal,2,Unhealthy,Yes,Low,852
+Male,86,199,156,Yes,Former,Typical Angina,Coronary Artery Bypass Graft (CABG),80+,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,853
+Male,32,132,190,Yes,Current,Asymptomatic,Lifestyle Changes,30-39,Low,High Blood Pressure Stage 1,1,Unhealthy,Yes,Low,854
+Male,45,181,212,Yes,Never,Asymptomatic,Medication,40-49,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,855
+Male,76,143,197,No,Current,Typical Angina,Coronary Artery Bypass Graft (CABG),70-79,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,856
+Male,50,93,268,No,Never,Typical Angina,Lifestyle Changes,50-59,High,Normal,1,Unhealthy,No,High,857
+Male,43,146,283,Yes,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG),40-49,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,858
+Female,53,198,258,Yes,Former,Asymptomatic,Medication,50-59,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,859
+Male,71,193,185,Yes,Former,Typical Angina,Lifestyle Changes,70-79,Low,High Blood Pressure Stage 2,1,Unhealthy,No,High,860
+Female,65,126,246,No,Never,Typical Angina,Medication,60-69,High,Elevated,1,At Risk,No,Low,861
+Male,64,141,186,No,Current,Non-anginal Pain,Lifestyle Changes,60-69,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,862
+Female,84,138,224,Yes,Never,Typical Angina,Coronary Artery Bypass Graft (CABG),80+,Borderline High,High Blood Pressure Stage 1,0,At Risk,No,Low,863
+Female,38,129,222,Yes,Never,Typical Angina,Angioplasty,30-39,Borderline High,Elevated,0,At Risk,No,Low,864
+Female,82,107,239,No,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG),80+,Borderline High,Normal,1,At Risk,Yes,Low,865
+Male,55,121,259,Yes,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG),50-59,High,Elevated,2,At Risk,Yes,Low,866
+Male,59,157,294,Yes,Current,Asymptomatic,Angioplasty,50-59,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,867
+Female,30,188,177,No,Current,Atypical Angina,Angioplasty,30-39,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,868
+Male,56,147,267,Yes,Never,Non-anginal Pain,Lifestyle Changes,50-59,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,869
+Female,38,98,181,No,Never,Typical Angina,Lifestyle Changes,30-39,Low,Normal,0,Healthy,No,High,870
+Male,64,186,259,Yes,Former,Non-anginal Pain,Medication,60-69,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,871
+Female,74,106,233,Yes,Never,Atypical Angina,Medication,70-79,Borderline High,Normal,0,At Risk,No,Moderate,872
+Female,41,101,212,No,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG),40-49,Borderline High,Normal,1,At Risk,Yes,Low,873
+Male,81,94,265,No,Former,Asymptomatic,Angioplasty,80+,High,Normal,1,Unhealthy,No,Low,874
+Female,82,151,178,Yes,Current,Non-anginal Pain,Medication,80+,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,875
+Male,57,149,261,No,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG),50-59,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,876
+Female,57,143,283,Yes,Former,Non-anginal Pain,Angioplasty,50-59,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,877
+Female,66,153,235,Yes,Current,Non-anginal Pain,Lifestyle Changes,60-69,Borderline High,High Blood Pressure Stage 2,2,At Risk,Yes,Low,878
+Male,61,106,203,No,Former,Typical Angina,Coronary Artery Bypass Graft (CABG),60-69,Borderline High,Normal,0,At Risk,No,Low,879
+Male,51,109,223,Yes,Former,Non-anginal Pain,Lifestyle Changes,50-59,Borderline High,Normal,0,At Risk,No,Low,880
+Male,49,147,177,Yes,Never,Typical Angina,Medication,40-49,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,881
+Female,85,97,199,No,Current,Typical Angina,Medication,80+,Low,Normal,1,Healthy,Yes,Low,882
+Male,63,144,258,No,Former,Asymptomatic,Angioplasty,60-69,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,883
+Female,70,158,181,Yes,Former,Typical Angina,Coronary Artery Bypass Graft (CABG),70-79,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,884
+Female,45,95,239,No,Current,Typical Angina,Lifestyle Changes,40-49,Borderline High,Normal,1,At Risk,Yes,High,885
+Male,88,186,261,No,Former,Asymptomatic,Angioplasty,80+,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,886
+Male,64,125,165,No,Former,Non-anginal Pain,Medication,60-69,Low,Elevated,0,At Risk,No,Low,887
+Female,74,159,213,No,Former,Atypical Angina,Medication,70-79,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Moderate,888
+Female,85,144,195,Yes,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG),80+,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,889
+Male,56,137,191,Yes,Current,Atypical Angina,Lifestyle Changes,50-59,Low,High Blood Pressure Stage 1,1,Unhealthy,Yes,Low,890
+Male,77,107,259,Yes,Current,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),70-79,High,Normal,2,Unhealthy,Yes,Low,891
+Male,69,134,197,No,Current,Typical Angina,Lifestyle Changes,60-69,Low,High Blood Pressure Stage 1,1,Unhealthy,Yes,High,892
+Male,39,125,263,No,Never,Atypical Angina,Lifestyle Changes,30-39,High,Elevated,1,At Risk,No,Low,893
+Male,53,189,268,No,Former,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),50-59,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,894
+Female,75,167,225,No,Current,Typical Angina,Angioplasty,70-79,Borderline High,High Blood Pressure Stage 2,2,At Risk,Yes,Low,895
+Female,71,194,173,No,Former,Asymptomatic,Coronary Artery Bypass Graft (CABG),70-79,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,896
+Female,77,159,230,No,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG),70-79,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,897
+Female,55,132,269,No,Never,Typical Angina,Medication,50-59,High,High Blood Pressure Stage 1,1,Unhealthy,No,Low,898
+Male,73,108,206,Yes,Current,Atypical Angina,Medication,70-79,Borderline High,Normal,1,At Risk,Yes,Moderate,899
+Male,67,101,199,Yes,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG),60-69,Low,Normal,1,Healthy,Yes,Low,900
+Male,39,171,235,No,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG),30-39,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,901
+Female,54,96,172,No,Current,Typical Angina,Medication,50-59,Low,Normal,1,Healthy,Yes,Low,902
+Female,76,122,195,No,Former,Non-anginal Pain,Lifestyle Changes,70-79,Low,Elevated,0,At Risk,No,Low,903
+Male,37,97,203,Yes,Former,Typical Angina,Coronary Artery Bypass Graft (CABG),30-39,Borderline High,Normal,0,At Risk,No,Low,904
+Male,52,112,226,Yes,Never,Atypical Angina,Angioplasty,50-59,Borderline High,Normal,0,At Risk,No,Low,905
+Female,44,141,282,No,Never,Typical Angina,Angioplasty,40-49,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,906
+Female,41,157,170,No,Never,Asymptomatic,Angioplasty,40-49,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,907
+Male,36,96,251,Yes,Former,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),30-39,High,Normal,1,Unhealthy,No,Low,908
+Male,80,164,154,Yes,Current,Typical Angina,Lifestyle Changes,80+,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,High,909
+Female,67,194,182,Yes,Never,Asymptomatic,Lifestyle Changes,60-69,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,910
+Male,49,170,292,Yes,Current,Non-anginal Pain,Medication,40-49,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,911
+Male,66,175,278,No,Never,Asymptomatic,Coronary Artery Bypass Graft (CABG),60-69,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,912
+Male,75,94,209,Yes,Never,Non-anginal Pain,Lifestyle Changes,70-79,Borderline High,Normal,0,At Risk,No,Low,913
+Female,36,127,229,Yes,Former,Typical Angina,Coronary Artery Bypass Graft (CABG),30-39,Borderline High,Elevated,0,At Risk,No,Low,914
+Female,49,125,236,No,Never,Asymptomatic,Medication,40-49,Borderline High,Elevated,0,At Risk,No,Low,915
+Female,74,138,268,Yes,Never,Atypical Angina,Medication,70-79,High,High Blood Pressure Stage 1,1,Unhealthy,No,Moderate,916
+Female,54,140,184,Yes,Former,Asymptomatic,Medication,50-59,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,917
+Female,40,162,275,Yes,Current,Non-anginal Pain,Angioplasty,40-49,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,918
+Female,44,185,187,No,Never,Typical Angina,Coronary Artery Bypass Graft (CABG),40-49,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,919
+Female,69,125,164,Yes,Former,Non-anginal Pain,Medication,60-69,Low,Elevated,0,At Risk,No,Low,920
+Male,63,93,278,No,Never,Asymptomatic,Coronary Artery Bypass Graft (CABG),60-69,High,Normal,1,Unhealthy,No,Low,921
+Male,50,99,185,No,Former,Asymptomatic,Angioplasty,50-59,Low,Normal,0,Healthy,No,Low,922
+Male,83,139,278,Yes,Current,Atypical Angina,Angioplasty,80+,High,High Blood Pressure Stage 1,2,Unhealthy,Yes,Low,923
+Male,32,188,297,Yes,Current,Typical Angina,Medication,30-39,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,924
+Male,76,132,212,Yes,Former,Typical Angina,Medication,70-79,Borderline High,High Blood Pressure Stage 1,0,At Risk,No,Low,925
+Male,77,151,257,Yes,Former,Asymptomatic,Lifestyle Changes,70-79,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,926
+Male,55,181,263,No,Former,Typical Angina,Coronary Artery Bypass Graft (CABG),50-59,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,927
+Female,47,181,297,Yes,Current,Atypical Angina,Medication,40-49,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Moderate,928
+Female,81,143,252,Yes,Never,Non-anginal Pain,Lifestyle Changes,80+,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,929
+Male,37,179,253,Yes,Current,Typical Angina,Coronary Artery Bypass Graft (CABG),30-39,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,930
+Male,58,95,201,No,Former,Asymptomatic,Medication,50-59,Borderline High,Normal,0,At Risk,No,Low,931
+Female,86,119,241,Yes,Former,Non-anginal Pain,Lifestyle Changes,80+,High,Normal,1,Unhealthy,No,Low,932
+Male,64,132,283,Yes,Current,Non-anginal Pain,Lifestyle Changes,60-69,High,High Blood Pressure Stage 1,2,Unhealthy,Yes,Low,933
+Male,79,91,282,No,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG),70-79,High,Normal,1,Unhealthy,No,Low,934
+Female,71,175,253,No,Current,Asymptomatic,Lifestyle Changes,70-79,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,935
+Male,60,168,278,Yes,Former,Typical Angina,Coronary Artery Bypass Graft (CABG),60-69,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,936
+Female,48,137,250,Yes,Never,Asymptomatic,Coronary Artery Bypass Graft (CABG),40-49,High,High Blood Pressure Stage 1,1,Unhealthy,No,Low,937
+Male,84,176,282,Yes,Never,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),80+,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,938
+Female,70,118,263,Yes,Former,Asymptomatic,Angioplasty,70-79,High,Normal,1,Unhealthy,No,Low,939
+Female,88,160,288,Yes,Current,Typical Angina,Lifestyle Changes,80+,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,High,940
+Female,45,106,170,No,Never,Typical Angina,Coronary Artery Bypass Graft (CABG),40-49,Low,Normal,0,Healthy,No,Low,941
+Male,66,91,194,No,Current,Atypical Angina,Medication,60-69,Low,Normal,1,Healthy,Yes,Moderate,942
+Female,83,98,246,Yes,Former,Typical Angina,Angioplasty,80+,High,Normal,1,Unhealthy,No,Low,943
+Male,44,182,174,Yes,Current,Typical Angina,Angioplasty,40-49,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,944
+Male,64,139,294,No,Never,Asymptomatic,Lifestyle Changes,60-69,High,High Blood Pressure Stage 1,1,Unhealthy,No,Low,945
+Male,39,115,209,Yes,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG),30-39,Borderline High,Normal,1,At Risk,Yes,Low,946
+Male,49,199,243,Yes,Current,Non-anginal Pain,Lifestyle Changes,40-49,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,947
+Female,40,110,292,Yes,Former,Atypical Angina,Angioplasty,40-49,High,Normal,1,Unhealthy,No,Low,948
+Female,34,169,219,Yes,Former,Asymptomatic,Coronary Artery Bypass Graft (CABG),30-39,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,949
+Male,88,122,172,Yes,Former,Typical Angina,Medication,80+,Low,Elevated,0,At Risk,No,Low,950
+Male,50,155,180,No,Never,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),50-59,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,951
+Female,32,107,179,Yes,Never,Asymptomatic,Angioplasty,30-39,Low,Normal,0,Healthy,No,Low,952
+Male,49,118,244,Yes,Former,Atypical Angina,Medication,40-49,High,Normal,1,Unhealthy,No,Moderate,953
+Female,71,167,170,Yes,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG),70-79,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,954
+Male,84,101,185,No,Never,Non-anginal Pain,Medication,80+,Low,Normal,0,Healthy,No,Low,955
+Male,50,198,277,No,Never,Non-anginal Pain,Medication,50-59,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,956
+Female,46,111,270,No,Never,Non-anginal Pain,Angioplasty,40-49,High,Normal,1,Unhealthy,No,Low,957
+Male,81,166,299,No,Never,Non-anginal Pain,Medication,80+,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,958
+Female,75,101,239,Yes,Former,Non-anginal Pain,Lifestyle Changes,70-79,Borderline High,Normal,0,At Risk,No,Low,959
+Male,71,168,183,No,Never,Typical Angina,Angioplasty,70-79,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,960
+Male,47,163,167,Yes,Former,Typical Angina,Lifestyle Changes,40-49,Low,High Blood Pressure Stage 2,1,Unhealthy,No,High,961
+Male,85,180,161,Yes,Current,Asymptomatic,Medication,80+,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,962
+Female,78,189,203,No,Current,Atypical Angina,Lifestyle Changes,70-79,Borderline High,High Blood Pressure Stage 2,2,At Risk,Yes,Low,963
+Male,41,190,297,No,Never,Typical Angina,Coronary Artery Bypass Graft (CABG),40-49,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,964
+Male,37,137,246,No,Current,Typical Angina,Medication,30-39,High,High Blood Pressure Stage 1,2,Unhealthy,Yes,Low,965
+Male,79,132,161,No,Current,Typical Angina,Coronary Artery Bypass Graft (CABG),70-79,Low,High Blood Pressure Stage 1,1,Unhealthy,Yes,Low,966
+Male,58,175,171,No,Current,Asymptomatic,Lifestyle Changes,50-59,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,967
+Female,36,164,150,Yes,Never,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),30-39,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,968
+Female,74,129,213,No,Never,Asymptomatic,Medication,70-79,Borderline High,Elevated,0,At Risk,No,Low,969
+Male,86,124,235,No,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG),80+,Borderline High,Elevated,1,At Risk,Yes,Low,970
+Female,64,181,267,No,Former,Atypical Angina,Lifestyle Changes,60-69,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,971
+Male,50,147,286,Yes,Current,Atypical Angina,Lifestyle Changes,50-59,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,972
+Male,50,173,159,No,Never,Atypical Angina,Lifestyle Changes,50-59,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,973
+Male,35,106,162,Yes,Never,Typical Angina,Medication,30-39,Low,Normal,0,Healthy,No,Low,974
+Female,89,106,180,No,Never,Typical Angina,Lifestyle Changes,80+,Low,Normal,0,Healthy,No,High,975
+Female,74,197,172,No,Current,Asymptomatic,Medication,70-79,Low,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,976
+Female,46,149,276,Yes,Former,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),40-49,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,977
+Female,58,103,267,No,Never,Atypical Angina,Lifestyle Changes,50-59,High,Normal,1,Unhealthy,No,Low,978
+Female,63,107,193,Yes,Never,Asymptomatic,Coronary Artery Bypass Graft (CABG),60-69,Low,Normal,0,Healthy,No,Low,979
+Female,33,180,247,Yes,Current,Typical Angina,Angioplasty,30-39,High,High Blood Pressure Stage 2,3,Unhealthy,Yes,Low,980
+Female,41,156,199,Yes,Former,Typical Angina,Coronary Artery Bypass Graft (CABG),40-49,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,981
+Female,73,188,206,No,Current,Non-anginal Pain,Angioplasty,70-79,Borderline High,High Blood Pressure Stage 2,2,At Risk,Yes,Low,982
+Female,49,176,280,No,Never,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),40-49,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,983
+Male,36,111,174,No,Former,Non-anginal Pain,Medication,30-39,Low,Normal,0,Healthy,No,Low,984
+Female,77,151,239,Yes,Former,Asymptomatic,Coronary Artery Bypass Graft (CABG),70-79,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,985
+Female,46,190,242,No,Never,Typical Angina,Medication,40-49,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,986
+Female,70,167,207,Yes,Former,Typical Angina,Medication,70-79,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,987
+Female,81,94,283,No,Former,Non-anginal Pain,Lifestyle Changes,80+,High,Normal,1,Unhealthy,No,Low,988
+Female,70,148,233,Yes,Current,Atypical Angina,Medication,70-79,Borderline High,High Blood Pressure Stage 2,2,At Risk,Yes,Moderate,989
+Female,37,138,265,Yes,Never,Non-anginal Pain,Angioplasty,30-39,High,High Blood Pressure Stage 1,1,Unhealthy,No,Low,990
+Female,85,168,208,Yes,Never,Asymptomatic,Lifestyle Changes,80+,Borderline High,High Blood Pressure Stage 2,1,At Risk,No,Low,991
+Female,72,194,181,No,Never,Non-anginal Pain,Lifestyle Changes,70-79,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,992
+Female,77,90,276,Yes,Never,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),70-79,High,Normal,1,Unhealthy,No,Low,993
+Female,77,198,268,Yes,Never,Asymptomatic,Medication,70-79,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,994
+Female,51,107,217,Yes,Former,Non-anginal Pain,Medication,50-59,Borderline High,Normal,0,At Risk,No,Low,995
+Male,42,125,193,Yes,Current,Typical Angina,Angioplasty,40-49,Low,Elevated,1,At Risk,Yes,Low,996
+Male,80,186,267,Yes,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG),80+,High,High Blood Pressure Stage 2,2,Unhealthy,Yes,Low,997
+Female,64,108,174,Yes,Current,Non-anginal Pain,Coronary Artery Bypass Graft (CABG),60-69,Low,Normal,1,Healthy,Yes,Low,998
+Female,84,123,195,No,Current,Asymptomatic,Lifestyle Changes,80+,Low,Elevated,1,At Risk,Yes,Low,999
+Male,61,155,197,No,Former,Atypical Angina,Lifestyle Changes,60-69,Low,High Blood Pressure Stage 2,1,Unhealthy,No,Low,1000
