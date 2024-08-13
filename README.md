@@ -308,6 +308,3 @@ This project successfully identified key risk factors for heart attacks and visu
 
 - Special thanks to the Kaggle community for providing the dataset.
 - Appreciation to the developers of Python libraries such as pandas, scipy, and matplotlib, which were instrumental in this analysis.
-
-### **License**
-This project is licensed under the MIT License.
